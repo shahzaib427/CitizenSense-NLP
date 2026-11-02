@@ -1,0 +1,13 @@
+task,model,val_accuracy,val_macro_f1,test_accuracy,test_macro_f1
+category,Naive Bayes,0.9681,0.9673,0.9681,0.9685
+category,Logistic Regression,0.9734,0.9728,0.984,0.984
+category,Linear SVM (calibrated),0.984,0.984,0.9947,0.9946
+category,Random Forest,0.984,0.984,0.9787,0.9784
+sentiment,Naive Bayes,1.0,1.0,0.9894,0.9855
+sentiment,Logistic Regression,1.0,1.0,1.0,1.0
+sentiment,Linear SVM (calibrated),1.0,1.0,1.0,1.0
+sentiment,Random Forest,0.9894,0.9865,0.9894,0.9874
+priority,Naive Bayes,0.6596,0.6494,0.6755,0.6699
+priority,Logistic Regression,0.734,0.7296,0.7872,0.7843
+priority,Linear SVM (calibrated),0.7074,0.6999,0.7447,0.7408
+priority,Random Forest,0.7128,0.6977,0.766,0.7598

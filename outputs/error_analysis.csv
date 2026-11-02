@@ -1,0 +1,41 @@
+text_sample,actual_category,predicted_category,confidence,error_type,possible_reason
+The park is dirty and the street lights are off,General,Electricity,0.81,Wrong category,Shared vocabulary between categories / mixed-language wording
+"Janab, hamare muhalle mein koi dustbin nahi hai.",Sanitation,Sanitation,0.461,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+hamare muhalle mein koi dustbin nahi hai. Please look into it.,Sanitation,Sanitation,0.482,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+School has no water supply and the toilets are dirty,Education,Education,0.497,Correct but low confidence,Multi-issue text mentions Education + Water
+school ki road par traffic jam rehta hai,Traffic,Traffic,0.592,Correct but low confidence,Multi-issue text mentions Education + Roads + Traffic
+"toot-phoot road par barish ka pani jama ho jata hai for a week. This is an emergency, act immediately!",Roads / Infrastructure,Roads / Infrastructure,0.638,Correct but low confidence,Multi-issue text mentions Roads + Water
+I want to report that overloaded rickshaws and buses are a danger to the public in our locality for a week. Please look into it.,Traffic,Traffic,0.642,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+There is a dead animal on the road and nobody removes it near the main market.,Sanitation,Sanitation,0.647,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+Illegal construction is going on in the residential area.,General,General,0.651,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+"Sir, Shops have encroached on the footpath in our locality.",General,General,0.697,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+Complaint: Illegal construction is going on in the residential area.,General,General,0.704,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+zyada sawariyan bithanay wale rickshaw aur bus khatarnak hain kai hafton se.,Traffic,Traffic,0.707,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+Complaint: The government office staff behaved badly with us near the main market for months. Kindly take action.,General,General,0.721,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+"Meherbani karke note karein, bijli ka bill bohat zyada aya hai do din se. Meherbani karke dekhein.",Electricity,Electricity,0.731,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+Overloaded rickshaws and buses are a danger to the public near the main market. Barae meherbani karwai karein.,Traffic,Traffic,0.752,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+"Sir, park ke saath kachra phenkne se beemariyan phail rahi hain teen din se.",Sanitation,Sanitation,0.769,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+park mein benches aur roshni ki zaroorat hai teen din se.,General,General,0.801,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+The speed breaker is too high and damages vehicles in Block C for a week. It is a serious problem for everyone.,Roads / Infrastructure,Roads / Infrastructure,0.801,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+dengue ke case barh rahe hain aur spray nahi hui for three days.,Health,Health,0.805,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+"Dear officer, We are forced to buy tanker water near the main market for two days. Please look into it.",Water Supply,Water Supply,0.829,Correct but low confidence,Shared vocabulary between categories / mixed-language wording
+"Our lane turns into a pond whenever it rains, cars get stuck and the tarmac is gone.",Roads / Infrastructure,Electricity,0.366,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+The culvert collapsed last night and a rickshaw nearly fell in.,Roads / Infrastructure,General,0.283,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+"Bridge railing is missing near the canal, kids walk there daily.",Roads / Infrastructure,Sanitation,0.51,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+The taps have been dry since Monday and the tanker mafia charges triple.,Water Supply,General,0.524,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+pani peela aa raha hai aur bachon ko pait dard hai,Water Supply,Sanitation,0.733,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+"Bohat shukriya, ab nalkay mein saaf pani aa raha hai.",Water Supply,Sanitation,0.831,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+Why is the bill showing 900 units when we were away all month?,Electricity,General,0.526,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+Rubbish piles up outside the mosque and the stench is unbearable.,Sanitation,Health,0.433,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+My father waited five hours in emergency and nobody checked him.,Health,General,0.413,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+"No paracetamol or antibiotics in the BHU, they tell us to buy outside.",Health,General,0.424,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+"Rash driving outside the college gate, someone will get killed.",Traffic,Sanitation,0.406,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+Motorbikes use the footpath during rush hour.,Traffic,General,0.495,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+"The new one-way plan has helped a lot, good thinking.",Traffic,Water Supply,0.34,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+Where do I submit a request for a community hall booking?,General,Sanitation,0.259,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+"Hospital road is broken, ambulances can't pass.",Roads / Infrastructure,Health,0.512,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+signal band hai aur bijli bhi nahi,Traffic,Electricity,0.832,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+too late,General,Health,0.54,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+nothing works here,General,Electricity,0.283,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+Jam since morning because of a broken truck on the bridge.,Traffic,Roads / Infrastructure,0.712,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording
+hamari gali mein pani nahi aa raha 4 din se bachon ko school bhi nahi bhej saktay,Water Supply,Education,0.691,Wrong category (challenge set),REVIEW MANUALLY: short / multi-issue / unseen wording

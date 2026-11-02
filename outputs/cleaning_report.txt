@@ -1,0 +1,39 @@
+Raw rows: 1512
+Rows containing URLs: 32
+Rows containing phone numbers: 57
+Removed 7 missing/empty rows
+Removed 253 exact duplicates
+Removed 1 near-duplicates (cosine >= 0.985)
+
+Final samples: 1251 | train 875 / val 188 / test 188
+
+Category distribution:
+category
+Roads / Infrastructure    161
+Sanitation                159
+Health                    159
+Electricity               157
+Education                 155
+General                   155
+Water Supply              153
+Traffic                   152
+
+Sentiment distribution:
+sentiment
+Negative    908
+Positive    205
+Neutral     138
+
+Priority distribution:
+priority
+High      368
+Low       366
+Medium    300
+Urgent    217
+
+Language distribution:
+language
+english        525
+roman_urdu     475
+mixed          233
+multi_issue     18

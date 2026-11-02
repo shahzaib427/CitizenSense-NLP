@@ -1,0 +1,1252 @@
+id,text_clean,category,category_id,sentiment,sentiment_id,priority,priority_id,split
+1,assalam o alaikum barish mein bijli ke khambay se chingariyan nikalti hain teen din se yeh emergency hai fori karwai karein,Electricity,2,Negative,0,Urgent,3,val
+2,the water bill is wrong although we get no supply in our colony yeh emergency hai fori karwai karein,Water Supply,1,Negative,0,Medium,1,test
+3,janab hamare muhalle mein koi dustbin nahi hai,Sanitation,3,Negative,0,Low,0,test
+4,the sewer was cleaned very fast appreciated very satisfied,Sanitation,3,Positive,2,Low,0,train
+5,hospital ke wards ganday aur ghair saaf hain for three days this is an emergency act immediately,Health,4,Negative,0,High,2,val
+6,school ki road par traffic jam rehta hai,Traffic,6,Negative,0,Medium,1,test
+7,meherbani karke note karein baar baar kehne ke bawajood meter nahi badla gaya kai hafton se,Electricity,2,Negative,0,Medium,1,test
+8,the water filtration plant in our locality is not working for two days,Water Supply,1,Negative,0,Medium,1,train
+9,dengue cases are rising and there is no spray in our area for months it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,test
+10,dear officer sewage water is mixing with the drinking water line near the main market since yesterday please look into it,Sanitation,3,Negative,0,Urgent,3,train
+11,meherbani karke note karein dengue ke case barh rahe hain aur spray nahi hui do din se yeh sab ke liye bara masla hai,Health,4,Negative,0,High,2,train
+12,the scholarship payment has been delayed for months near the main market yeh sab ke liye bara masla hai,Education,5,Negative,0,Medium,1,train
+13,assalam o alaikum hamare area ki road bohat kharab hai do din se baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,High,2,test
+14,meherbani karke note karein hospital mein intezar ka waqt bohat zyada hai yeh sab ke liye bara masla hai,Health,4,Negative,0,Medium,1,val
+15,shikayat sarak par murda janwar para hai koi nahi uthata ek hafte se pic attached,Sanitation,3,Negative,0,High,2,train
+16,har shaam bohat zyada traffic jam hota hai for many weeks it is a serious problem for everyone,Traffic,6,Negative,0,High,2,train
+17,the classrooms are overcrowded with no benches in block c yeh emergency hai fori karwai karein,Education,5,Negative,0,High,2,test
+18,lab ki machinein kharab hain isliye tests mein der hoti hai meherbani karke dekhein,Health,4,Negative,0,Medium,1,train
+19,hello the footpath is broken and unsafe for elderly people near the main market for many weeks it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,High,2,train
+20,janab bhari trucks ko din mein sheher mein dakhil hone diya jata hai do din se,Traffic,6,Negative,0,Medium,1,test
+21,assalam o alaikum kya is itwaar ko vaccination camp khula hoga,Health,4,Neutral,1,Low,0,train
+22,quick question what time does the garbage truck visit our street,Sanitation,3,Neutral,1,Medium,1,val
+23,doctors treated my mother well and the hospital was clean shukriya,Health,4,Positive,2,Low,0,val
+24,janab gutter ka pani sarak par beh raha hai ek hafte se,Sanitation,3,Negative,0,Urgent,3,train
+25,awara kutte logon par hamla kar rahe hain ek hafte se baraye karam jaldi theek karwayein,General,7,Negative,0,Urgent,3,train
+26,what time does the garbage truck visit our street,Sanitation,3,Neutral,1,Medium,1,train
+27,complaint the waiting time at the hospital is too long in our colony for three days it is a serious problem for everyone,Health,4,Negative,0,High,2,test
+28,no traffic warden is present at the busy crossing for a week,Traffic,6,Negative,0,High,2,train
+29,classrooms mein bohat bheed hai aur benches nahi hain teen din se,Education,5,Negative,0,High,2,val
+30,shikayat helpline ne jaldi jawab diya aur masla hal hua,General,7,Positive,2,Low,0,val
+31,school has no water supply and the toilets are dirty,Education,5,Negative,0,High,2,test
+32,sir talba ko abhi tak muft kitabein nahi mili do din se,Education,5,Negative,0,Medium,1,train
+33,sir poori raat loudspeaker ka shor hota hai kai hafton se,General,7,Negative,0,High,2,train
+34,school ki imarat ki deewarein toot chuki hain aur ghair mehfooz hain kal se meherbani karke dekhein,Education,5,Negative,0,Urgent,3,train
+35,rehaishi ilaqay mein ghair qanooni tameer ho rahi hai ek hafte se meherbani karke dekhein,General,7,Negative,0,High,2,val
+36,water supply has improved a lot after the new pipeline,Water Supply,1,Positive,2,Low,0,train
+37,ek sawal hai school wazifay ke liye kaise apply karun,Education,5,Neutral,1,Low,0,test
+38,the hospital staff was rude to the patients in our neighbourhood every day kindly take action,Health,4,Negative,0,Medium,1,train
+39,tareef nayi pipeline ke baad pani ki supply bohat behtar ho gayi hai umeed hai yeh jari rahega,Water Supply,1,Positive,2,Low,0,train
+40,sir speed breaker bohat ooncha hai gaariyan kharab hoti hain do din se yeh emergency hai fori karwai karein,Roads / Infrastructure,0,Negative,0,Medium,1,test
+42,har shaam bohat zyada traffic jam hota hai for many weeks please look into it,Traffic,6,Negative,0,High,2,val
+44,the sewer was cleaned very fast shukriya,Sanitation,3,Positive,2,Low,0,val
+45,complaint the complaint office does not answer any calls for many weeks,General,7,Negative,0,High,2,train
+46,voltage upar neeche hone se hamare appliances kharab ho rahe hain baraye karam jaldi theek karwayein,Electricity,2,Negative,0,High,2,val
+47,ghair qanooni parking se poori sarak band ho jati hai barae meherbani karwai karein,Traffic,6,Negative,0,Medium,1,train
+48,the sewer was cleaned very fast umeed hai yeh jari rahega shukriya,Sanitation,3,Positive,2,Low,0,train
+49,hello the doctor is absent during duty hours in our area,Health,4,Negative,0,Medium,1,train
+51,shikayat school bina wajah kai hafton se band hai kai mahine se meherbani karke dekhein,Education,5,Negative,0,Urgent,3,train
+52,janab apna traffic challan online kahan dekhun,Traffic,6,Neutral,1,Low,0,train
+53,achi khabar doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha umeed hai yeh jari rahega,Health,4,Positive,2,Low,0,train
+54,complaint sewage water is mixing with the drinking water line for a week please fix it urgently,Sanitation,3,Negative,0,Urgent,3,train
+55,appreciation garbage is now collected daily good improvement well done team,Sanitation,3,Positive,2,Low,0,train
+56,meherbani karke bataein kharab road ki shikayat municipal office mein kaise karun,Roads / Infrastructure,0,Neutral,1,Low,0,train
+57,tameeri kaam ke dauran kaun sa rasta khula hai,Traffic,6,Neutral,1,Low,0,train
+58,there is no oxygen supply at the emergency ward near the main market for many weeks,Health,4,Negative,0,Urgent,3,val
+59,complaint there is a dead animal on the road and nobody removes it near the main market for many weeks it is a serious problem for everyone,Sanitation,3,Negative,0,High,2,val
+60,loudspeakers create noise all night baraye karam jaldi theek karwayein,General,7,Negative,0,High,2,test
+61,which office handles sewer line complaints,Sanitation,3,Neutral,1,Low,0,train
+62,bina bataye kai ghantay bijli band rehti hai every day please look into it,Electricity,2,Negative,0,Medium,1,train
+63,i want to report that there is no oxygen supply at the emergency ward in our colony it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,train
+65,the footpath is broken and unsafe for elderly people in our area yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,Medium,1,train
+66,hello stray dogs are attacking people in our area for three days this is an emergency act immediately pic attached,General,7,Negative,0,Urgent,3,train
+67,stray dogs are attacking people in our area barae meherbani karwai karein,General,7,Negative,0,High,2,train
+68,tareef hamare school ke ustad bohat mehnati hain shukriya,Education,5,Positive,2,Low,0,val
+69,sir what time does the garbage truck visit our street,Sanitation,3,Neutral,1,Low,0,train
+70,janab bina bataye kai ghantay bijli band rehti hai kai mahine se baraye karam jaldi theek karwayein see,Electricity,2,Negative,0,High,2,train
+72,sir basic health unit aksar band rehta hai,Health,4,Negative,0,High,2,train
+73,complaint sweepers do not come to our street in block c for a week please look into it,Sanitation,3,Negative,0,Medium,1,train
+74,jharoo dene wale hamari gali mein nahi aate for two days call me,Sanitation,3,Negative,0,Low,0,train
+75,nayi pipeline ke baad pani ki supply bohat behtar ho gayi hai,Water Supply,1,Positive,2,Low,0,train
+76,assalam o alaikum voltage upar neeche hone se hamare appliances kharab ho rahe hain kai hafton se,Electricity,2,Negative,0,High,2,train
+77,official website par khidmaat ki wazeh maloomat nahi hai this is an emergency act immediately,General,7,Negative,0,Medium,1,train
+78,dengue cases are rising and there is no spray in our area,Health,4,Negative,0,High,2,train
+79,an open manhole on the road is dangerous for children near the main market yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+80,hamare block mein pani ki supply ke auqat kya hain,Water Supply,1,Neutral,1,Low,0,train
+81,garbage is not collected from our street near the main market meherbani karke dekhein,Sanitation,3,Negative,0,Medium,1,train
+82,complaint the tube well has stopped working in our colony it is a serious problem for everyone,Water Supply,1,Negative,0,High,2,train
+83,the bridge near our locality has developed cracks in our area barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,High,2,train
+84,complaint stray dogs are attacking people in our area for a week kindly take action,General,7,Negative,0,Urgent,3,train
+85,gutter ka pani sarak par beh raha hai kal se barae meherbani karwai karein,Sanitation,3,Negative,0,High,2,train
+86,wazifa kai mahine se nahi mila for a week this is an emergency act immediately,Education,5,Negative,0,High,2,train
+87,subah pani ka pressure bohat kam hota hai teen din se meherbani karke dekhein,Water Supply,1,Negative,0,High,2,train
+88,the hospital wards are dirty and unhygienic near the main market,Health,4,Negative,0,Medium,1,val
+89,hello the ambulance reached very late for a critical patient in our colony for months please look into it,Health,4,Negative,0,Urgent,3,train
+90,assalam o alaikum naye pani connection ke liye kahan apply karun see,Water Supply,1,Neutral,1,Medium,1,test
+91,hello is the vaccination camp open this sunday,Health,4,Neutral,1,Low,0,train
+92,ek sawal hai kooda uthane wali gaari kis waqt aati hai,Sanitation,3,Neutral,1,Medium,1,train
+93,hello the waiting time at the hospital is too long in our neighbourhood for a week this is an emergency act immediately,Health,4,Negative,0,High,2,train
+94,meherbani karke note karein road khod kar chor di gayi aur dobara nahi banayi barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,Medium,1,test
+95,stagnant dirty water is breeding mosquitoes in block c every day please fix it urgently,Sanitation,3,Negative,0,Urgent,3,train
+96,hamare muhalle ka filtration plant band para hai for two days,Water Supply,1,Negative,0,Medium,1,train
+97,gaariyan ulti taraf se chalti hain koi nahi rokta ek hafte se baraye karam jaldi theek karwayein,Traffic,6,Negative,0,Urgent,3,test
+98,shikayat school ke paas zebra crossing nahi hai ek hafte se,Traffic,6,Negative,0,High,2,test
+99,sir the sewer line is overflowing onto the street in block c for months,Sanitation,3,Negative,0,Urgent,3,val
+100,meherbani karke note karein wazifa kai mahine se nahi mila kai hafton se yeh sab ke liye bara masla hai,Education,5,Negative,0,High,2,train
+101,appreciation the sewer was cleaned very fast appreciated well done team,Sanitation,3,Positive,2,Low,0,test
+102,respected sir the waiting time at the hospital is too long for many weeks,Health,4,Negative,0,High,2,train
+103,janab naye bijli meter ke liye kaise apply karun,Electricity,2,Neutral,1,Low,0,train
+104,doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha aisay hi karte rahein,Health,4,Positive,2,Low,0,train
+105,respected sir there are huge potholes on the main street in our area every day please look into it,Roads / Infrastructure,0,Negative,0,Medium,1,train
+106,the park has been renovated nicely shabash team shukriya,General,7,Positive,2,Low,0,train
+107,garbage is now collected daily shabash team shukriya,Sanitation,3,Positive,2,Low,0,train
+109,kooda uthane wali gaari kis waqt aati hai,Sanitation,3,Neutral,1,Low,0,train
+110,janab pani din mein sirf das minute aata hai do din se,Water Supply,1,Negative,0,Medium,1,test
+111,what is the phone number of the citizen helpline,General,7,Neutral,1,Low,0,train
+112,assalam o alaikum barish mein bijli ke khambay se chingariyan nikalti hain ek hafte se,Electricity,2,Negative,0,Urgent,3,train
+113,janab sector mein sarak ki tameer kab mukammal hogi,Roads / Infrastructure,0,Neutral,1,Medium,1,train
+114,where can i check my traffic challan online,Traffic,6,Neutral,1,Low,0,train
+115,shikayat subah pani ka pressure bohat kam hota hai rozana contact,Water Supply,1,Negative,0,Medium,1,train
+116,the complaint helpline answered quickly and solved my issue umeed hai yeh jari rahega shukriya,General,7,Positive,2,Low,0,train
+117,hello no traffic warden is present at the busy crossing in our neighbourhood every day it is a serious problem for everyone,Traffic,6,Negative,0,Medium,1,train
+118,please tell me which office handles sewer line complaints,Sanitation,3,Neutral,1,Low,0,test
+119,sir doctor duty ke auqat mein ghair hazir rehta hai ek hafte se,Health,4,Negative,0,High,2,train
+120,is chowrahe par aye din hadsay hote hain for many weeks,Traffic,6,Negative,0,Urgent,3,test
+121,how can i report a damaged road to the municipal office,Roads / Infrastructure,0,Neutral,1,Medium,1,train
+122,there are no medicines available at the dispensary in our area yeh sab ke liye bara masla hai,Health,4,Negative,0,High,2,train
+123,rainwater collects on the damaged road every day in block c please look into it contact,Roads / Infrastructure,0,Negative,0,Medium,1,val
+124,motorcycles race on the road and risk lives near the main market for months it is a serious problem for everyone,Traffic,6,Negative,0,Urgent,3,train
+125,complaint shops have encroached on the footpath,General,7,Negative,0,Low,0,train
+126,humein tanker ka pani kharidna par raha hai rozana,Water Supply,1,Negative,0,Medium,1,train
+127,traffic wardens are doing a great job at the chowk umeed hai yeh jari rahega shukriya,Traffic,6,Positive,2,Low,0,train
+128,school bina wajah kai hafton se band hai ek hafte se meherbani karke dekhein,Education,5,Negative,0,Urgent,3,train
+129,there is no water supply in our area,Water Supply,1,Negative,0,High,2,train
+130,assalam o alaikum speed breaker bohat ooncha hai gaariyan kharab hoti hain,Roads / Infrastructure,0,Negative,0,Low,0,train
+131,thank you for repairing the road in our area shukriya,Roads / Infrastructure,0,Positive,2,Low,0,val
+132,shukriya bijli ke amlay ne hamari shikayat par jaldi amal kiya,Electricity,2,Positive,2,Low,0,train
+134,shikayat daftar koi call receive nahi karta,General,7,Negative,0,Medium,1,train
+135,sir my application has been pending for months with no update in our locality for two days this is an emergency act immediately,General,7,Negative,0,High,2,train
+136,the school building walls are cracked and unsafe in our neighbourhood for a week this is an emergency act immediately,Education,5,Negative,0,Urgent,3,train
+137,the new signal has reduced the traffic jam good job,Traffic,6,Positive,2,Low,0,train
+138,school mein larkiyon ke liye washroom nahi hain do din se barae meherbani karwai karein,Education,5,Negative,0,High,2,val
+139,sir the ambulance reached very late for a critical patient for many weeks,Health,4,Negative,0,Urgent,3,val
+140,janab is chowrahe par aye din hadsay hote hain kai hafton se meherbani karke dekhein,Traffic,6,Negative,0,Urgent,3,test
+141,complaint illegal construction is going on in the residential area,General,7,Negative,0,Medium,1,test
+142,assalam o alaikum awara kutte logon par hamla kar rahe hain barae meherbani karwai karein,General,7,Negative,0,High,2,test
+143,the electric meter was not replaced after repeated requests in our area since yesterday,Electricity,2,Negative,0,Low,0,train
+144,the road was dug up for work and never repaired near the main market,Roads / Infrastructure,0,Negative,0,Medium,1,train
+145,janab barish mein bijli ke khambay se chingariyan nikalti hain,Electricity,2,Negative,0,Urgent,3,train
+146,hamare muhalle mein koi dustbin nahi hai yeh sab ke liye bara masla hai,Sanitation,3,Negative,0,Low,0,val
+147,what is the schedule of load shedding this week,Electricity,2,Neutral,1,Low,0,val
+148,the lab machines are broken so tests are delayed in block c,Health,4,Negative,0,Medium,1,train
+149,the school has no science lab or computers in our neighbourhood for months it is a serious problem for everyone,Education,5,Negative,0,Medium,1,test
+150,bas yeh kehna tha chowk par traffic wardens acha kaam kar rahe hain aisay hi karte rahein,Traffic,6,Positive,2,Low,0,train
+151,the school was closed for weeks without any reason near the main market,Education,5,Negative,0,High,2,train
+152,the hospital wards are dirty and unhygienic in our area for two days,Health,4,Negative,0,Medium,1,val
+153,the electricity staff responded quickly to our complaint aisay hi karte rahein shukriya,Electricity,2,Positive,2,Low,0,train
+154,the new signal has reduced the traffic jam umeed hai yeh jari rahega shukriya,Traffic,6,Positive,2,Low,0,train
+155,toot phoot road par barish ka pani jama ho jata hai for a week this is an emergency act immediately,Roads / Infrastructure,0,Negative,0,High,2,test
+156,no electricity no water and nobody answers the complaint line,General,7,Negative,0,High,2,train
+157,voltage upar neeche hone se hamare appliances kharab ho rahe hain kai hafton se meherbani karke dekhein,Electricity,2,Negative,0,High,2,train
+158,respected sir there is heavy traffic jam every evening in our area for many weeks it is a serious problem for everyone,Traffic,6,Negative,0,High,2,train
+159,assalam o alaikum baar baar kehne ke bawajood meter nahi badla gaya ek hafte se baraye karam jaldi theek karwayein my number is,Electricity,2,Negative,0,High,2,train
+160,please add a mobile app to track complaint status near the main market yeh emergency hai fori karwai karein,General,7,Negative,0,Medium,1,train
+161,bijli ki taarein gali mein latak rahi hain yeh emergency hai fori karwai karein,Electricity,2,Negative,0,Urgent,3,train
+162,the doctor is absent during duty hours in our neighbourhood every day please fix it urgently,Health,4,Negative,0,High,2,train
+163,sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya rozana yeh sab ke liye bara masla hai,General,7,Negative,0,Medium,1,val
+164,thank you the new street construction was completed on time very satisfied,Roads / Infrastructure,0,Positive,2,Low,0,test
+165,sir the hospital staff was rude to the patients near the main market for a week,Health,4,Negative,0,High,2,train
+166,dear officer the water filtration plant in our locality is not working every day please look into it,Water Supply,1,Negative,0,Medium,1,test
+167,the new street construction was completed on time hope it continues,Roads / Infrastructure,0,Positive,2,Low,0,train
+168,the school was closed for weeks without any reason in our neighbourhood kindly take action,Education,5,Negative,0,High,2,train
+169,the street lights are not working at night near the main market for months please look into it,Electricity,2,Negative,0,High,2,train
+170,sir park ke saath kooda phenkne se beemariyan phail rahi hain teen din se,Sanitation,3,Negative,0,Urgent,3,test
+171,sir sarak par khula manhole bachon ke liye khatarnak hai teen din se yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+172,motorcycles race on the road and risk lives in our colony for many weeks it is a serious problem for everyone,Traffic,6,Negative,0,Urgent,3,train
+173,dukandaron ne footpath par qabza kar liya hai kai hafton se,General,7,Negative,0,Medium,1,train
+174,how do i check the status of my application,General,7,Neutral,1,Low,0,val
+175,sir what is the phone number of the citizen helpline,General,7,Neutral,1,Low,0,test
+176,power is cut for hours without any notice in block c please fix it urgently,Electricity,2,Negative,0,High,2,train
+177,the tube well has stopped working in our area please fix it urgently,Water Supply,1,Negative,0,Urgent,3,train
+178,bazar ke paas kachray ka dher kai dinon se para hai this is an emergency act immediately,Sanitation,3,Negative,0,High,2,train
+179,loose electric wires are hanging near the street,Electricity,2,Negative,0,Urgent,3,val
+180,loose electric wires are hanging near the street kindly take action,Electricity,2,Negative,0,Urgent,3,train
+181,is the vaccination camp open this sunday,Health,4,Neutral,1,Low,0,test
+182,jharoo dene wale hamari gali mein nahi aate ek hafte se yeh emergency hai fori karwai karein,Sanitation,3,Negative,0,High,2,train
+183,doctor duty ke auqat mein ghair hazir rehta hai for months,Health,4,Negative,0,High,2,train
+184,complaint the main water pipeline is leaking and wasting water in block c for three days kindly take action,Water Supply,1,Negative,0,High,2,train
+185,appreciation the teachers in our school are very dedicated thank you very satisfied,Education,5,Positive,2,Low,0,test
+186,naye signal se traffic jam kam ho gaya acha kaam hai,Traffic,6,Positive,2,Low,0,test
+187,hamare school ke ustad bohat mehnati hain shukriya hum bohat khush hain,Education,5,Positive,2,Low,0,train
+188,janab naali band hai aur bohat badbu aa rahi hai kal se baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,High,2,train
+189,the hospital wards are dirty and unhygienic in our neighbourhood please look into it,Health,4,Negative,0,Medium,1,train
+190,shikayat talba ko abhi tak muft kitabein nahi mili teen din se yeh sab ke liye bara masla hai,Education,5,Negative,0,High,2,train
+191,dear officer vehicles drive on the wrong side and nobody stops them in our area,Traffic,6,Negative,0,High,2,train
+192,assalam o alaikum naali band hai aur bohat badbu aa rahi hai rozana yeh emergency hai fori karwai karein,Sanitation,3,Negative,0,High,2,train
+193,ek sawal hai is hafte load shedding ka schedule kya hai,Electricity,2,Neutral,1,Low,0,train
+194,quick question what are the opd timings of the government hospital,Health,4,Neutral,1,Medium,1,train
+195,how do i apply for a new electricity meter,Electricity,2,Neutral,1,Medium,1,train
+196,assalam o alaikum school mein science lab aur computers nahi hain kai mahine se baraye karam jaldi theek karwayein,Education,5,Negative,0,High,2,val
+197,the tap water is dirty and smells bad in our locality for many weeks,Water Supply,1,Negative,0,Urgent,3,train
+198,bas yeh kehna tha bijli ke amlay ne hamari shikayat par jaldi amal kiya umeed hai yeh jari rahega,Electricity,2,Positive,2,Low,0,train
+199,meherbani karke bataein apni darkhwast ka status kaise check karun,General,7,Neutral,1,Low,0,test
+200,the complaint helpline answered quickly and solved my issue aisay hi karte rahein shukriya,General,7,Positive,2,Low,0,train
+201,respected sir please add a mobile app to track complaint status in our colony every day,General,7,Negative,0,Low,0,val
+202,hello what are the opd timings of the government hospital,Health,4,Neutral,1,Medium,1,test
+203,park mein benches aur roshni ki zaroorat hai do din se yeh sab ke liye bara masla hai call me,General,7,Negative,0,Low,0,val
+204,stagnant dirty water is breeding mosquitoes meherbani karke dekhein,Sanitation,3,Negative,0,High,2,train
+205,ek sawal hai sarkari schools mein dakhlay kab shuru hotay hain see,Education,5,Neutral,1,Medium,1,test
+206,dear officer there is heavy traffic jam every evening in our neighbourhood since yesterday,Traffic,6,Negative,0,Medium,1,train
+207,subah pani ka pressure bohat kam hota hai for two days,Water Supply,1,Negative,0,Medium,1,train
+208,hello the tap water is dirty and smells bad in our locality this is an emergency act immediately pic attached,Water Supply,1,Negative,0,Urgent,3,train
+209,bas yeh kehna tha chowk par traffic wardens acha kaam kar rahe hain shabash team,Traffic,6,Positive,2,Low,0,train
+210,sewage water is mixing with the drinking water line in block c for three days,Sanitation,3,Negative,0,Urgent,3,train
+211,park ke saath kooda phenkne se beemariyan phail rahi hain baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,Urgent,3,val
+212,janab hospital mein intezar ka waqt bohat zyada hai teen din se meherbani karke dekhein,Health,4,Negative,0,High,2,test
+213,there are no dustbins in our locality please fix it urgently my number is,Sanitation,3,Negative,0,Medium,1,train
+214,dear officer the street is full of gravel and dust since construction stopped in our locality for months it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,Medium,1,test
+217,the hospital staff was rude to the patients in our locality please look into it,Health,4,Negative,0,Medium,1,test
+218,voltage fluctuation is damaging our appliances in our area since yesterday,Electricity,2,Negative,0,Medium,1,train
+219,sir how can i apply for the school scholarship,Education,5,Neutral,1,Medium,1,train
+220,ek sawal hai apna traffic challan online kahan dekhun,Traffic,6,Neutral,1,Low,0,train
+221,water supply has improved a lot after the new pipeline hum bohat khush hain shukriya,Water Supply,1,Positive,2,Low,0,val
+222,is hafte load shedding ka schedule kya hai,Electricity,2,Neutral,1,Medium,1,train
+223,hello the lab machines are broken so tests are delayed near the main market for many weeks please fix it urgently,Health,4,Negative,0,High,2,train
+224,janab apni darkhwast ka status kaise check karun,General,7,Neutral,1,Low,0,train
+225,the classrooms are overcrowded with no benches near the main market this is an emergency act immediately,Education,5,Negative,0,High,2,train
+226,dear officer stray dogs are attacking people in our area for a week this is an emergency act immediately,General,7,Negative,0,Urgent,3,val
+227,good news the park has been renovated nicely thanks to the team,General,7,Positive,2,Low,0,train
+228,heavy trucks are allowed in the city during the day,Traffic,6,Negative,0,Medium,1,train
+229,meherbani karke bataein sarkari hospital ki opd ke auqat kya hain,Health,4,Neutral,1,Low,0,train
+230,good news thank you for repairing the road in our area it is much better now well done team,Roads / Infrastructure,0,Positive,2,Low,0,train
+231,road pe pani jama hai aur gutter bhi ubal raha hai,Sanitation,3,Negative,0,High,2,train
+232,the hospital staff was rude to the patients in our neighbourhood baraye karam jaldi theek karwayein,Health,4,Negative,0,High,2,train
+233,doctor duty ke auqat mein ghair hazir rehta hai,Health,4,Negative,0,Medium,1,train
+234,achi khabar nayi sarak ki tameer waqt par mukammal hui umeed hai yeh jari rahega,Roads / Infrastructure,0,Positive,2,Low,0,train
+235,i want to report that the school building walls are cracked and unsafe in our locality it is a serious problem for everyone,Education,5,Negative,0,Urgent,3,train
+237,the electricity bill is much higher than usual in our area,Electricity,2,Negative,0,Low,0,train
+238,dear officer there are no dustbins in our locality,Sanitation,3,Negative,0,Low,0,train
+239,dear officer there is no electricity since morning for months kindly take action,Electricity,2,Negative,0,Urgent,3,val
+240,dispensary mein dawaiyan maujood nahi hain for months,Health,4,Negative,0,Urgent,3,train
+241,voltage fluctuation is damaging our appliances in our neighbourhood for two days please look into it,Electricity,2,Negative,0,Medium,1,val
+242,respected sir there is no electricity since morning please look into it,Electricity,2,Negative,0,High,2,train
+243,bijli ka bill bohat zyada aya hai do din se yeh sab ke liye bara masla hai,Electricity,2,Negative,0,Low,0,val
+244,please tell me how can i report a damaged road to the municipal office,Roads / Infrastructure,0,Neutral,1,Medium,1,train
+246,meherbani karke bataein apna traffic challan online kahan dekhun,Traffic,6,Neutral,1,Low,0,train
+247,sewage water is flooding the road near the school,Sanitation,3,Negative,0,High,2,train
+248,the new street construction was completed on time shabash team shukriya,Roads / Infrastructure,0,Positive,2,Low,0,train
+249,complaint loudspeakers create noise all night in our neighbourhood,General,7,Negative,0,Medium,1,test
+250,chowk par traffic wardens acha kaam kar rahe hain umeed hai yeh jari rahega my number is,Traffic,6,Positive,2,Low,0,train
+251,wazifa kai mahine se nahi mila since yesterday,Education,5,Negative,0,Medium,1,train
+252,janab pani nahi aata lekin bill phir bhi aa gaya hai ek hafte se,Water Supply,1,Negative,0,Medium,1,train
+253,garbage is not collected from our street in our colony yeh emergency hai fori karwai karein,Sanitation,3,Negative,0,High,2,train
+254,respected sir the footpath is broken and unsafe for elderly people in our neighbourhood for many weeks,Roads / Infrastructure,0,Negative,0,High,2,train
+255,meherbani karke bataein gutter ki shikayat kaun sa daftar sunta hai,Sanitation,3,Neutral,1,Low,0,train
+256,please tell me what are the water supply timings for our block,Water Supply,1,Neutral,1,Medium,1,train
+257,traffic wardens are doing a great job at the chowk shukriya,Traffic,6,Positive,2,Low,0,train
+258,free books were delivered on time this year shukriya,Education,5,Positive,2,Low,0,train
+259,quick question how can i apply for the school scholarship,Education,5,Neutral,1,Medium,1,train
+260,complaint the school building walls are cracked and unsafe in our locality every day it is a serious problem for everyone,Education,5,Negative,0,Urgent,3,train
+261,sir the waiting time at the hospital is too long in our neighbourhood for months,Health,4,Negative,0,High,2,train
+262,shikayat ka status dekhne ke liye mobile app banayein rozana meherbani karke dekhein,General,7,Negative,0,Low,0,train
+263,tareef hamare school ke ustad bohat mehnati hain shukriya umeed hai yeh jari rahega my number is,Education,5,Positive,2,Low,0,train
+265,meherbani karke note karein is chowrahe par aye din hadsay hote hain,Traffic,6,Negative,0,Urgent,3,train
+266,the teachers in our school are very dedicated shukriya,Education,5,Positive,2,Low,0,train
+267,doctor was helpful but the waiting time was too long,Health,4,Negative,0,Medium,1,train
+269,i want to report that sweepers do not come to our street in block c for a week it is a serious problem for everyone,Sanitation,3,Negative,0,Medium,1,train
+270,hello the official website has no clear information on services in our neighbourhood for two days it is a serious problem for everyone,General,7,Negative,0,Low,0,train
+271,ek sawal hai sector mein sarak ki tameer kab mukammal hogi,Roads / Infrastructure,0,Neutral,1,Low,0,train
+272,lab ki machinein kharab hain isliye tests mein der hoti hai every day kindly take action,Health,4,Negative,0,Medium,1,val
+273,the scholarship payment has been delayed for months in our neighbourhood,Education,5,Negative,0,Medium,1,train
+274,voltage fluctuation is damaging our appliances in our colony,Electricity,2,Negative,0,Medium,1,train
+275,respected sir the electricity bill is much higher than usual in block c every day this is an emergency act immediately,Electricity,2,Negative,0,Medium,1,train
+276,lab ki machinein kharab hain isliye tests mein der hoti hai every day please fix it urgently,Health,4,Negative,0,High,2,test
+277,the electricity staff responded quickly to our complaint shabash team shukriya,Electricity,2,Positive,2,Low,0,train
+278,sir sweepers do not come to our street in block c for two days,Sanitation,3,Negative,0,Low,0,train
+279,janab pani din mein sirf das minute aata hai do din se yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,Medium,1,train
+281,the new transformer solved our voltage problem shukriya,Electricity,2,Positive,2,Low,0,train
+282,hello what are the water supply timings for our block,Water Supply,1,Neutral,1,Low,0,val
+284,the hospital staff was very helpful and polite shukriya,Health,4,Positive,2,Low,0,train
+285,bijli ki taarein gali mein latak rahi hain,Electricity,2,Negative,0,Urgent,3,train
+287,assalam o alaikum barish mein bijli ke khambay se chingariyan nikalti hain ek hafte se barae meherbani karwai karein,Electricity,2,Negative,0,Urgent,3,train
+288,janab construction ruk gayi hai aur gali mein bajri aur dhool hai,Roads / Infrastructure,0,Negative,0,Low,0,val
+289,baar baar kehne ke bawajood meter nahi badla gaya ek hafte se barae meherbani karwai karein,Electricity,2,Negative,0,Medium,1,train
+290,sir when will the road construction in sector be completed,Roads / Infrastructure,0,Neutral,1,Low,0,val
+291,hello which route is open for traffic during the construction,Traffic,6,Neutral,1,Medium,1,train
+292,assalam o alaikum main sarak par bade bade gaddhe hain yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,Medium,1,train
+294,great work the water team fixed the leakage quickly great work well done team,Water Supply,1,Positive,2,Low,0,test
+295,gutter ka pani sarak par beh raha hai,Sanitation,3,Negative,0,High,2,test
+296,lab ki machinein kharab hain isliye tests mein der hoti hai for three days it is a serious problem for everyone,Health,4,Negative,0,High,2,test
+297,janab voltage upar neeche hone se hamare appliances kharab ho rahe hain kai hafton se,Electricity,2,Negative,0,High,2,train
+298,shikayat classrooms mein bohat bheed hai aur benches nahi hain kai mahine se,Education,5,Negative,0,High,2,train
+303,meherbani karke note karein bijli ka bill bohat zyada aya hai do din se meherbani karke dekhein,Electricity,2,Negative,0,Low,0,test
+304,shikayat classrooms mein bohat bheed hai aur benches nahi hain baraye karam jaldi theek karwayein,Education,5,Negative,0,High,2,train
+305,rainwatter collects on the damaged road every day in our area,Roads / Infrastructure,0,Negative,0,Medium,1,train
+306,thank you for repairing the road in our area aisay hi karte rahein shukriya,Roads / Infrastructure,0,Positive,2,Low,0,train
+307,ek sawal hai kharab road ki shikayat municipal office mein kaise karun,Roads / Infrastructure,0,Neutral,1,Low,0,train
+308,emergency ward mein oxygen maujood nahi hai for months it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,train
+309,assalam o alaikum main chowk par traffic signal kharab hai kai mahine se meherbani karke dekhein,Traffic,6,Negative,0,High,2,train
+310,good news the complaint helpline answered quickly and solved my issue,General,7,Positive,2,Low,0,test
+311,illegal construction is going on in the residential area since yesterday,General,7,Negative,0,Medium,1,train
+312,good news garbage is now collected daily good improvement very satisfied,Sanitation,3,Positive,2,Low,0,train
+313,respected sir my application has been pending for months with no update in our colony for two days this is an emergency act immediately,General,7,Negative,0,High,2,val
+314,assalam o alaikum naye pani connection ke liye kahan apply karun,Water Supply,1,Neutral,1,Low,0,train
+315,barish mein school ki chat tapakti hai kai mahine se yeh emergency hai fori karwai karein,Education,5,Negative,0,Urgent,3,train
+316,just wanted to say the electricity staff responded quickly to our complaint hope it continues,Electricity,2,Positive,2,Low,0,train
+317,speed breaker bohat ooncha hai gaariyan kharab hoti hain kal se baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Medium,1,val
+319,the classrooms are overcrowded with no benches in block c for a week my number is,Education,5,Negative,0,High,2,train
+320,hamare muhalle ke qareeb pul mein dararein par gayi hain do din se yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,High,2,train
+321,hello the street lights are not working at night in our area for three days,Electricity,2,Negative,0,High,2,train
+322,school ke paas zebra crossing nahi hai kal se baraye karam jaldi theek karwayein,Traffic,6,Negative,0,High,2,val
+323,hamare area ki road bohat kharab hai,Roads / Infrastructure,0,Negative,0,Medium,1,train
+325,sir bina bataye kai ghantay bijli band rehti hai rozana yeh sab ke liye bara masla hai,Electricity,2,Negative,0,Medium,1,train
+326,hamare area ki road bohat kharab hai yeh emergency hai fori karwai karein,Roads / Infrastructure,0,Negative,0,High,2,train
+328,the waiting time at the hospital is too long in our neighbourhood meherbani karke dekhein contact,Health,4,Negative,0,Medium,1,train
+329,ek sawal hai hamare block mein pani ki supply ke auqat kya hain,Water Supply,1,Neutral,1,Low,0,train
+331,the scholarship payment has been delayed for months for two days this is an emergency act immediately,Education,5,Negative,0,High,2,train
+332,sir the transformer blew up and was never replaced near the main market for two days this is an emergency act immediately,Electricity,2,Negative,0,Urgent,3,train
+333,citizen helpline ka number kya hai pic attached,General,7,Neutral,1,Medium,1,train
+334,complaint an open manhole on the road is dangerous for children in block c please look into it,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+335,complaint the tap water is dirty and smells bad,Water Supply,1,Negative,0,High,2,val
+336,voltage upar neeche hone se hamare appliances kharab ho rahe hain ek hafte se yeh sab ke liye bara masla hai,Electricity,2,Negative,0,High,2,test
+337,khara ganda pani machar paida kar raha hai yeh sab ke liye bara masla hai,Sanitation,3,Negative,0,High,2,test
+338,i want to report that open dumping of waste beside the park is spreading disease in our colony this is an emergency act immediately,Sanitation,3,Negative,0,Urgent,3,val
+340,achi khabar chowk par traffic wardens acha kaam kar rahe hain pic attached,Traffic,6,Positive,2,Low,0,test
+341,janab gaariyan ulti taraf se chalti hain koi nahi rokta kal se,Traffic,6,Negative,0,High,2,train
+342,doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha,Health,4,Positive,2,Low,0,train
+343,the hospital staff was very helpful and polite,Health,4,Positive,2,Low,0,train
+344,hamare muhalle mein koi dustbin nahi hai for three days please look into it,Sanitation,3,Negative,0,Medium,1,val
+345,complaint the electricity bill is much higher than usual,Electricity,2,Negative,0,Low,0,train
+346,janab hamari gali se kooda nahi uthaya ja raha,Sanitation,3,Negative,0,Medium,1,test
+347,shukriya chowk par traffic wardens acha kaam kar rahe hain,Traffic,6,Positive,2,Low,0,test
+348,meherbani karke note karein classrooms mein bohat bheed hai aur benches nahi hain kai hafton se yeh sab ke liye bara masla hai,Education,5,Negative,0,High,2,test
+349,where can i apply for a new water connection,Water Supply,1,Neutral,1,Low,0,train
+350,sarkari school mein ustad aksar ghair hazir rehte hain do din se,Education,5,Negative,0,Medium,1,val
+351,ek sawal hai naye pani connection ke liye kahan apply karun,Water Supply,1,Neutral,1,Low,0,val
+352,the street lights are not working at night in our colony barae meherbani karwai karein,Electricity,2,Negative,0,Medium,1,train
+353,shikayat motorcycle sawar tez raftari se chalate hain jaan ka khatra hai teen din se,Traffic,6,Negative,0,Urgent,3,val
+354,sir road khod kar chor di gayi aur dobara nahi banayi baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,High,2,train
+356,water comes only for ten minutes a day in our locality yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,Medium,1,train
+358,sir the street is full of gravel and dust since construction stopped in our neighbourhood,Roads / Infrastructure,0,Negative,0,Low,0,train
+359,power is cut for hours without any notice in our area every day this is an emergency act immediately,Electricity,2,Negative,0,High,2,train
+360,hello when will the road construction in sector be completed,Roads / Infrastructure,0,Neutral,1,Low,0,train
+361,the teachers in our school are very dedicated shabash team shukriya call me,Education,5,Positive,2,Low,0,train
+362,the electricity staff responded quickly to our complaint hum bohat khush hain shukriya,Electricity,2,Positive,2,Low,0,train
+363,tareef ab kooda rozana uthaya jata hai acha iqdam hai,Sanitation,3,Positive,2,Low,0,train
+364,complaint rainwater collects on the damaged road every day in our area for two days kindly take action,Roads / Infrastructure,0,Negative,0,Medium,1,test
+365,bas yeh kehna tha naye transformer se voltage ka masla hal ho gaya shukriya,Electricity,2,Positive,2,Low,0,train
+366,open dumping of waste beside the park is spreading disease in our area yeh sab ke liye bara masla hai see,Sanitation,3,Negative,0,High,2,train
+367,my application has been pending for months with no update for three days,General,7,Negative,0,High,2,train
+368,sir dengue cases are rising and there is no spray in our area for many weeks,Health,4,Negative,0,Urgent,3,train
+370,hamare muhalle ka filtration plant band para hai do din se meherbani karke dekhein,Water Supply,1,Negative,0,Medium,1,train
+372,naali band hai aur bohat badbu aa rahi hai kai hafton se,Sanitation,3,Negative,0,High,2,val
+373,complaint vehicles drive on the wrong side and nobody stops them in block c for a week it is a serious problem for everyone,Traffic,6,Negative,0,Urgent,3,train
+374,sir dispensary mein dawaiyan maujood nahi hain teen din se,Health,4,Negative,0,Urgent,3,train
+376,dear officer the bridge near our locality has developed cracks in our locality kindly take action,Roads / Infrastructure,0,Negative,0,High,2,train
+377,assalam o alaikum har shaam bohat zyada traffic jam hota hai,Traffic,6,Negative,0,Medium,1,val
+378,good news garbage is now collected daily good improvement hope it continues,Sanitation,3,Positive,2,Low,0,train
+380,meherbani karke note karein critical mareez ke liye ambulance bohat der se pohanchi meherbani karke dekhein,Health,4,Negative,0,Urgent,3,train
+381,doctors treated my mother well and the hospital was clean hope it continues,Health,4,Positive,2,Low,0,train
+382,i want to report that there are no medicines available at the dispensary in our area every day please look into it call me,Health,4,Negative,0,High,2,train
+383,illegal parking blocks the whole road in our locality barae meherbani karwai karein,Traffic,6,Negative,0,Medium,1,train
+384,students have not received their free textbooks for three days,Education,5,Negative,0,High,2,train
+385,rehaishi ilaqay mein ghair qanooni tameer ho rahi hai for many weeks it is a serious problem for everyone,General,7,Negative,0,High,2,train
+386,rehaishi ilaqay mein ghair qanooni tameer ho rahi hai please look into it,General,7,Negative,0,Medium,1,train
+387,meherbani karke bataein kya is itwaar ko vaccination camp khula hoga,Health,4,Neutral,1,Medium,1,train
+388,hello the water filtration plant in our locality is not working for many weeks,Water Supply,1,Negative,0,High,2,train
+389,the school has no science lab or computers in our neighbourhood for months,Education,5,Negative,0,Medium,1,train
+390,the school building walls are cracked and unsafe in our area barae meherbani karwai karein,Education,5,Negative,0,Urgent,3,train
+391,meherbani karke note karein hamare muhalle ka filtration plant band para hai kal se meherbani karke dekhein,Water Supply,1,Negative,0,Medium,1,val
+392,the new signal has reduced the traffic jam shukriya,Traffic,6,Positive,2,Low,0,train
+393,hamare area ki road bohat kharab hai for a week,Roads / Infrastructure,0,Negative,0,High,2,train
+394,tareef chowk par traffic wardens acha kaam kar rahe hain umeed hai yeh jari rahega,Traffic,6,Positive,2,Low,0,train
+395,hospital has no electricity and patients are suffering,Health,4,Negative,0,Urgent,3,train
+396,baar baar kehne ke bawajood meter nahi badla gaya teen din se yeh sab ke liye bara masla hai contact,Electricity,2,Negative,0,Medium,1,train
+397,nalke ka pani ganda hai aur badbu aati hai kai mahine se yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,Urgent,3,train
+398,stray dogs are attacking people in our area,General,7,Negative,0,High,2,train
+399,hello the supplied water is contaminated and children are falling sick kindly take action,Water Supply,1,Negative,0,Urgent,3,val
+400,bas yeh kehna tha hospital ka staff bohat madadgar aur shaista tha aisay hi karte rahein,Health,4,Positive,2,Low,0,val
+403,is saal muft kitabein waqt par mil gayin umeed hai yeh jari rahega,Education,5,Positive,2,Low,0,train
+405,har shaam bohat zyada traffic jam hota hai do din se baraye karam jaldi theek karwayein,Traffic,6,Negative,0,High,2,train
+406,i want to report that the street surface has collapsed near the school every day,Roads / Infrastructure,0,Negative,0,High,2,test
+407,janab jharoo dene wale hamari gali mein nahi aate kal se meherbani karke dekhein,Sanitation,3,Negative,0,Low,0,train
+408,sir loose electric wires are hanging near the street for a week,Electricity,2,Negative,0,Urgent,3,test
+409,gutter ka pani peenay ke pani mein mil raha hai since yesterday,Sanitation,3,Negative,0,Urgent,3,train
+410,hospital ka staff bohat madadgar aur shaista tha aisay hi karte rahein,Health,4,Positive,2,Low,0,train
+411,janab doctor duty ke auqat mein ghair hazir rehta hai ek hafte se baraye karam jaldi theek karwayein,Health,4,Negative,0,High,2,train
+412,naali band hai aur bohat badbu aa rahi hai call me,Sanitation,3,Negative,0,Medium,1,train
+413,hamare muhalle mein koi dustbin nahi hai please look into it,Sanitation,3,Negative,0,Low,0,test
+414,water supply has improved a lot after the new pipeline keep it up,Water Supply,1,Positive,2,Low,0,test
+415,critical mareez ke liye ambulance bohat der se pohanchi for two days this is an emergency act immediately,Health,4,Negative,0,Urgent,3,train
+416,janab kooda uthane wali gaari kis waqt aati hai,Sanitation,3,Neutral,1,Low,0,train
+417,sir pani aloodah hai aur bachay beemar ho rahe hain ek hafte se baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,Urgent,3,train
+418,meherbani karke note karein transformer jal gaya hai aur abhi tak nahi badla gaya kai mahine se,Electricity,2,Negative,0,Urgent,3,test
+419,school ke paas zebra crossing nahi hai kai mahine se baraye karam jaldi theek karwayein,Traffic,6,Negative,0,High,2,train
+420,the new transformer solved our voltage problem aisay hi karte rahein shukriya pic attached,Electricity,2,Positive,2,Low,0,test
+421,assalam o alaikum school wazifay ke liye kaise apply karun,Education,5,Neutral,1,Low,0,train
+422,sir what are the water supply timings for our block my number is,Water Supply,1,Neutral,1,Medium,1,val
+424,shikayat pani aloodah hai aur bachay beemar ho rahe hain,Water Supply,1,Negative,0,Urgent,3,val
+425,school mein science lab aur computers nahi hain teen din se baraye karam jaldi theek karwayein,Education,5,Negative,0,High,2,train
+426,janab sarak par khula manhole bachon ke liye khatarnak hai kai mahine se yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+427,sir what are the water supply timings for our block,Water Supply,1,Neutral,1,Low,0,train
+428,respected sir the road was dug up for work and never repaired in our locality for two days kindly take action,Roads / Infrastructure,0,Negative,0,Medium,1,train
+430,hospital mein intezar ka waqt bohat zyada hai please look into it,Health,4,Negative,0,Medium,1,train
+431,an open manhole on the road is dangerous for children near the main market this is an emergency act immediately,Roads / Infrastructure,0,Negative,0,Urgent,3,val
+432,sir no traffic warden is present at the busy crossing in our neighbourhood kindly take action,Traffic,6,Negative,0,Medium,1,train
+433,great work thank you for repairing the road in our area it is much better now very satisfied,Roads / Infrastructure,0,Positive,2,Low,0,train
+434,the electricity staff responded quickly to our complaint shukriya,Electricity,2,Positive,2,Low,0,test
+435,respected sir water comes only for ten minutes a day for months,Water Supply,1,Negative,0,High,2,train
+436,there are no toilets for girls in the school kindly take action my number is,Education,5,Negative,0,High,2,train
+437,sir gaariyan ulti taraf se chalti hain koi nahi rokta,Traffic,6,Negative,0,High,2,train
+438,hamare area mein load shedding bohat zyada hai since yesterday please fix it urgently,Electricity,2,Negative,0,High,2,train
+439,sir hamari gali se kooda nahi uthaya ja raha teen din se barae meherbani karwai karein,Sanitation,3,Negative,0,High,2,train
+440,respected sir there is a dead animal on the road and nobody removes it in our colony for a week please look into it,Sanitation,3,Negative,0,High,2,train
+441,hello the complaint office does not answer any calls in our colony it is a serious problem for everyone,General,7,Negative,0,Medium,1,train
+442,har shaam bohat zyada traffic jam hota hai it is a serious problem for everyone,Traffic,6,Negative,0,Medium,1,train
+443,complaint the basic health unit is closed most days in block c kindly take action,Health,4,Negative,0,High,2,train
+444,respected sir water comes only for ten minutes a day kindly take action,Water Supply,1,Negative,0,Medium,1,train
+445,complaint the supplied water is contaminated and children are falling sick in our colony kindly take action,Water Supply,1,Negative,0,Urgent,3,train
+446,there are no medicines available at the dispensary near the main market this is an emergency act immediately,Health,4,Negative,0,Urgent,3,train
+447,hello the supplied water is contaminated and children are falling sick in our locality since yesterday please fix it urgently,Water Supply,1,Negative,0,Urgent,3,test
+448,the new street construction was completed on time shukriya,Roads / Infrastructure,0,Positive,2,Low,0,test
+449,hello the main water pipeline is leaking and wasting water in our area for three days this is an emergency act immediately,Water Supply,1,Negative,0,High,2,val
+451,sir pani ki main pipeline leak ho rahi hai aur pani zaya ho raha hai kai mahine se barae meherbani karwai karein contact,Water Supply,1,Negative,0,High,2,train
+452,janab school ke paas zebra crossing nahi hai kai hafton se,Traffic,6,Negative,0,High,2,test
+453,assalam o alaikum citizen helpline ka number kya hai,General,7,Neutral,1,Medium,1,train
+454,janab tameeri kaam ke dauran kaun sa rasta khula hai,Traffic,6,Neutral,1,Low,0,test
+455,complaint there is no oxygen supply at the emergency ward in our neighbourhood please look into it,Health,4,Negative,0,Urgent,3,val
+456,there are huge potholes on the main street in our area for three days please fix it urgently,Roads / Infrastructure,0,Negative,0,High,2,val
+457,please tell me what are the opd timings of the government hospital,Health,4,Neutral,1,Low,0,train
+458,shikayat subah pani ka pressure bohat kam hota hai kai mahine se baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,High,2,train
+459,quick question how do i check the status of my application,General,7,Neutral,1,Low,0,train
+460,shikayat ka status dekhne ke liye mobile app banayein,General,7,Negative,0,Low,0,val
+461,hello there are no toilets for girls in the school for a week it is a serious problem for everyone,Education,5,Negative,0,Urgent,3,train
+462,ek sawal hai citizen helpline ka number kya hai,General,7,Neutral,1,Low,0,val
+463,the park is dirty and the street lights are off,General,7,Negative,0,Medium,1,test
+464,apna traffic challan online kahan dekhun,Traffic,6,Neutral,1,Low,0,train
+466,achi khabar shikayat helpline ne jaldi jawab diya aur masla hal hua shabash team,General,7,Positive,2,Low,0,val
+467,shops have encroached on the footpath in our colony for two days please fix it urgently,General,7,Negative,0,Medium,1,train
+468,hello how do i apply for a new electricity meter,Electricity,2,Neutral,1,Low,0,test
+469,sir the classrooms are overcrowded with no benches in our locality for months this is an emergency act immediately,Education,5,Negative,0,High,2,val
+471,there are no dustbins in our locality barae meherbani karwai karein contact,Sanitation,3,Negative,0,Low,0,train
+472,sir the road was dug up for work and never repaired in our neighbourhood please look into it,Roads / Infrastructure,0,Negative,0,Medium,1,train
+473,the speed breaker is too high and damages vehicles in our locality kindly take action,Roads / Infrastructure,0,Negative,0,Low,0,train
+474,i want to report that an open manhole on the road is dangerous for children for many weeks please fix it urgently,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+475,talba ko abhi tak muft kitabein nahi mili every day kindly take action,Education,5,Negative,0,Medium,1,train
+476,the water filtration plant in our locality is not working,Water Supply,1,Negative,0,Medium,1,train
+477,dear officer there are frequent accidents at this intersection for a week,Traffic,6,Negative,0,Urgent,3,train
+478,emergency ward mein oxygen maujood nahi hai,Health,4,Negative,0,Urgent,3,test
+479,there is a dead animal on the road and nobody removes it near the main market,Sanitation,3,Negative,0,Medium,1,test
+480,complaint the street is full of gravel and dust since construction stopped in our neighbourhood for three days,Roads / Infrastructure,0,Negative,0,Medium,1,test
+481,sir subah pani ka pressure bohat kam hota hai rozana yeh emergency hai fori karwai karein,Water Supply,1,Negative,0,High,2,test
+482,respected sir the school roof leaks during rain in our locality every day,Education,5,Negative,0,High,2,val
+483,achi khabar park ki acchi marammat hui team ka shukriya,General,7,Positive,2,Low,0,train
+484,the main water pipeline is leaking and wasting water in our area every day,Water Supply,1,Negative,0,Medium,1,val
+485,talba ko abhi tak muft kitabein nahi mili kal se yeh sab ke liye bara masla hai,Education,5,Negative,0,Medium,1,train
+486,school mein science lab aur computers nahi hain ek hafte se barae meherbani karwai karein,Education,5,Negative,0,Medium,1,test
+487,hello sweepers do not come to our street for many weeks kindly take action,Sanitation,3,Negative,0,Medium,1,train
+488,water supply has improved a lot after the new pipeline shukriya,Water Supply,1,Positive,2,Low,0,test
+489,the street is full of gravel and dust since construction stopped in block c baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+491,janab gaariyan ulti taraf se chalti hain koi nahi rokta rozana meherbani karke dekhein,Traffic,6,Negative,0,High,2,train
+492,meherbani karke note karein humein tanker ka pani kharidna par raha hai kal se,Water Supply,1,Negative,0,Medium,1,val
+494,hello which office handles sewer line complaints,Sanitation,3,Neutral,1,Low,0,test
+495,there is a dead animal on the road and nobody removes it in our area meherbani karke dekhein,Sanitation,3,Negative,0,Medium,1,train
+496,just wanted to say the new signal has reduced the traffic jam good job,Traffic,6,Positive,2,Low,0,train
+497,pani ki main pipeline leak ho rahi hai aur pani zaya ho raha hai kal se,Water Supply,1,Negative,0,Medium,1,test
+498,the road is broken and rainwater is standing on it for days,Roads / Infrastructure,0,Negative,0,Medium,1,val
+499,how can i apply for the school scholarship,Education,5,Neutral,1,Low,0,train
+500,hamare muhalle ke qareeb pul mein dararein par gayi hain ek hafte se,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+501,gutter ki safai bohat jaldi hui shukriya umeed hai yeh jari rahega,Sanitation,3,Positive,2,Low,0,train
+502,road khod kar chor di gayi aur dobara nahi banayi meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,Medium,1,test
+503,i want to report that the school has no science lab or computers in our colony every day kindly take action,Education,5,Negative,0,Low,0,val
+504,assalam o alaikum is chowrahe par aye din hadsay hote hain yeh sab ke liye bara masla hai,Traffic,6,Negative,0,Urgent,3,train
+505,sir there are no dustbins in our locality for two days this is an emergency act immediately,Sanitation,3,Negative,0,Medium,1,train
+506,the teachers in our school are very dedicated aisay hi karte rahein shukriya,Education,5,Positive,2,Low,0,train
+507,school mein science lab aur computers nahi hain it is a serious problem for everyone,Education,5,Negative,0,Low,0,train
+508,there is heavy traffic jam every evening for months pic attached,Traffic,6,Negative,0,High,2,train
+509,meherbani karke bataein sarkari schools mein dakhlay kab shuru hotay hain,Education,5,Neutral,1,Low,0,val
+510,complaint vehicles drive on the wrong side and nobody stops them in block c for months,Traffic,6,Negative,0,Urgent,3,train
+511,assalam o alaikum hospital ka staff mareezon ke sath badtameezi karta hai ek hafte se meherbani karke dekhein,Health,4,Negative,0,High,2,val
+512,there are huge potholes on the main street in our area for three days this is an emergency act immediately,Roads / Infrastructure,0,Negative,0,High,2,train
+513,the tube well has stopped working kindly take action,Water Supply,1,Negative,0,High,2,train
+514,there are no dustbins in our locality baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,Medium,1,train
+515,sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya kal se yeh sab ke liye bara masla hai,General,7,Negative,0,Medium,1,train
+516,appreciation the water team fixed the leakage quickly great work well done team,Water Supply,1,Positive,2,Low,0,val
+517,load shedding is too long in our area,Electricity,2,Negative,0,Medium,1,train
+518,shukriya hamare school ke ustad bohat mehnati hain shukriya shabash team,Education,5,Positive,2,Low,0,val
+519,which route is open for traffic during the construction,Traffic,6,Neutral,1,Medium,1,train
+520,respected sir vehicles drive on the wrong side and nobody stops them in our colony for three days this is an emergency act immediately,Traffic,6,Negative,0,Urgent,3,train
+521,shikayat hamare muhalle ke qareeb pul mein dararein par gayi hain baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Urgent,3,test
+522,when does admission start in government schools,Education,5,Neutral,1,Low,0,val
+523,classrooms mein bohat bheed hai aur benches nahi hain teen din se yeh emergency hai fori karwai karein contact,Education,5,Negative,0,High,2,train
+524,janab hamare area mein pani ki supply bilkul band hai rozana,Water Supply,1,Negative,0,High,2,train
+525,good news the electricity staff responded quickly to our complaint keep it up,Electricity,2,Positive,2,Low,0,train
+526,main chowk par traffic signal kharab hai kai hafton se meherbani karke dekhein,Traffic,6,Negative,0,High,2,val
+528,meherbani karke bataein kooda uthane wali gaari kis waqt aati hai,Sanitation,3,Neutral,1,Low,0,train
+529,the supplied water is contaminated and children are falling sick in our locality meherbani karke dekhein,Water Supply,1,Negative,0,Urgent,3,train
+530,when will the road construction in sector be completed,Roads / Infrastructure,0,Neutral,1,Low,0,test
+531,meherbani karke note karein park ke saath kooda phenkne se beemariyan phail rahi hain meherbani karke dekhein,Sanitation,3,Negative,0,High,2,train
+532,zyada sawariyan bithanay wale rickshaw aur bus khatarnak hain ek hafte se baraye karam jaldi theek karwayein call me,Traffic,6,Negative,0,Urgent,3,train
+534,park ke saath kooda phenkne se beemariyan phail rahi hain kai mahine se yeh emergency hai fori karwai karein,Sanitation,3,Negative,0,Urgent,3,val
+535,meherbani karke bataein naye pani connection ke liye kahan apply karun,Water Supply,1,Neutral,1,Low,0,train
+536,janab khara ganda pani machar paida kar raha hai do din se,Sanitation,3,Negative,0,High,2,train
+537,the park has been renovated nicely shukriya,General,7,Positive,2,Low,0,train
+538,meri darkhwast kai mahine se zer e iltawa hai koi jawab nahi ek hafte se,General,7,Negative,0,High,2,val
+539,vehicles drive on the wrong side and nobody stops them near the main market for two days kindly take action,Traffic,6,Negative,0,High,2,val
+540,the street surface has collapsed near the school yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,High,2,train
+541,main sarak par bade bade gaddhe hain for a week please look into it,Roads / Infrastructure,0,Negative,0,High,2,test
+542,motorcycle sawar tez raftari se chalate hain jaan ka khatra hai it is a serious problem for everyone,Traffic,6,Negative,0,High,2,val
+543,meherbani karke note karein humein tanker ka pani kharidna par raha hai ek hafte se baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,High,2,train
+544,quick question what is the schedule of load shedding this week,Electricity,2,Neutral,1,Low,0,test
+545,assalam o alaikum bazar ke paas kachray ka dher kai dinon se para hai kai hafton se meherbani karke dekhein,Sanitation,3,Negative,0,High,2,train
+546,respected sir there are huge potholes on the main street in block c since yesterday,Roads / Infrastructure,0,Negative,0,Medium,1,val
+547,janab school mein bachon ke liye peenay ka pani nahi hai rozana,Education,5,Negative,0,High,2,train
+548,baar baar kehne ke bawajood meter nahi badla gaya for many weeks,Electricity,2,Negative,0,Medium,1,train
+549,i want to report that the bridge near our locality has developed cracks please look into it,Roads / Infrastructure,0,Negative,0,High,2,train
+550,i want to report that an open manhole on the road is dangerous for children in our locality please fix it urgently,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+551,appreciation water supply has improved a lot after the new pipeline hope it continues,Water Supply,1,Positive,2,Low,0,train
+552,respected sir the hospital wards are dirty and unhygienic in our locality for many weeks,Health,4,Negative,0,High,2,val
+553,respected sir no traffic warden is present at the busy crossing for a week it is a serious problem for everyone,Traffic,6,Negative,0,High,2,test
+556,the transformer blew up and was never replaced in our neighbourhood yeh sab ke liye bara masla hai,Electricity,2,Negative,0,High,2,train
+557,hamare muhalle ke qareeb pul mein dararein par gayi hain teen din se barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+559,janab park mein benches aur roshni ki zaroorat hai,General,7,Negative,0,Low,0,train
+560,motorcycle sawar tez raftari se chalate hain jaan ka khatra hai kai mahine se,Traffic,6,Negative,0,Urgent,3,test
+561,janab bijli ka bill bohat zyada aya hai do din se yeh sab ke liye bara masla hai,Electricity,2,Negative,0,Low,0,val
+564,shikayat school ke qareeb sarak dhans gayi hai rozana,Roads / Infrastructure,0,Negative,0,High,2,train
+565,janab masroof chowrahe par traffic warden maujood nahi hota kal se,Traffic,6,Negative,0,Medium,1,train
+566,there are frequent accidents at this intersection near the main market baraye karam jaldi theek karwayein,Traffic,6,Negative,0,Urgent,3,train
+567,sir open dumping of waste beside the park is spreading disease in our colony for many weeks kindly take action,Sanitation,3,Negative,0,Urgent,3,val
+569,naye signal se traffic jam kam ho gaya acha kaam hai my number is,Traffic,6,Positive,2,Low,0,train
+570,hello how do i check the status of my application,General,7,Neutral,1,Low,0,train
+571,respected sir the hospital wards are dirty and unhygienic in our colony for months,Health,4,Negative,0,High,2,train
+572,hello heavy trucks are allowed in the city during the day please look into it,Traffic,6,Negative,0,Medium,1,test
+573,critical mareez ke liye ambulance bohat der se pohanchi,Health,4,Negative,0,Urgent,3,train
+574,staff acha tha lekin hospital mein dawai nahi thi,Health,4,Negative,0,High,2,train
+575,quick question how can i report a damaged road to the municipal office,Roads / Infrastructure,0,Neutral,1,Low,0,train
+576,the waiting time at the hospital is too long kindly take action,Health,4,Negative,0,Medium,1,train
+577,gutter ka pani peenay ke pani mein mil raha hai kai mahine se,Sanitation,3,Negative,0,Urgent,3,train
+578,the classrooms are overcrowded with no benches for two days it is a serious problem for everyone,Education,5,Negative,0,Medium,1,train
+580,is chowrahe par aye din hadsay hote hain teen din se barae meherbani karwai karein,Traffic,6,Negative,0,Urgent,3,train
+581,the street lights are not working at night every day kindly take action,Electricity,2,Negative,0,Medium,1,train
+582,dear officer dengue cases are rising and there is no spray in our area for three days kindly take action,Health,4,Negative,0,Urgent,3,val
+583,respected sir the school roof leaks during rain in our area,Education,5,Negative,0,High,2,val
+584,janab kharab road ki shikayat municipal office mein kaise karun,Roads / Infrastructure,0,Neutral,1,Low,0,train
+585,speed breaker bohat ooncha hai gaariyan kharab hoti hain meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,Low,0,train
+586,bina bataye kai ghantay bijli band rehti hai,Electricity,2,Negative,0,Medium,1,train
+587,pani din mein sirf das minute aata hai do din se yeh sab ke liye bara masla hai call me,Water Supply,1,Negative,0,Medium,1,val
+588,i want to report that students have not received their free textbooks this is an emergency act immediately,Education,5,Negative,0,High,2,train
+589,free books were delivered on time this year well done team,Education,5,Positive,2,Low,0,train
+590,meherbani karke note karein footpath toota hua hai buzurgon ke liye ghair mehfooz hai,Roads / Infrastructure,0,Negative,0,Medium,1,train
+591,meherbani karke note karein subah pani ka pressure bohat kam hota hai yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,Medium,1,train
+593,meherbani karke note karein lab ki machinein kharab hain isliye tests mein der hoti hai yeh emergency hai fori karwai karein,Health,4,Negative,0,High,2,val
+594,sir the main water pipeline is leaking and wasting water in our locality for three days,Water Supply,1,Negative,0,High,2,train
+595,assalam o alaikum gaariyan ulti taraf se chalti hain koi nahi rokta barae meherbani karwai karein,Traffic,6,Negative,0,High,2,train
+596,pani ka bill aur bijli ka bill dono galat aaye hain,General,7,Negative,0,Low,0,train
+597,we are forced to buy tanker water in our locality since yesterday,Water Supply,1,Negative,0,Medium,1,train
+598,the school building walls are cracked and unsafe in our area for a week,Education,5,Negative,0,Urgent,3,train
+599,teachers are often absent from the government school near the main market please fix it urgently,Education,5,Negative,0,High,2,train
+600,shikayat khara ganda pani machar paida kar raha hai barae meherbani karwai karein,Sanitation,3,Negative,0,High,2,train
+601,complaint the waiting time at the hospital is too long for many weeks this is an emergency act immediately,Health,4,Negative,0,High,2,train
+602,meherbani karke note karein hospital mein intezar ka waqt bohat zyada hai do din se yeh sab ke liye bara masla hai,Health,4,Negative,0,Medium,1,train
+603,there is no oxygen supply at the emergency ward in our area for many weeks please look into it,Health,4,Negative,0,Urgent,3,train
+605,sir gutter ka pani peenay ke pani mein mil raha hai yeh sab ke liye bara masla hai,Sanitation,3,Negative,0,Urgent,3,train
+606,the lab machines are broken so tests are delayed in our locality,Health,4,Negative,0,Medium,1,train
+608,assalam o alaikum pani ki main pipeline leak ho rahi hai aur pani zaya ho raha hai teen din se barae meherbani karwai karein,Water Supply,1,Negative,0,High,2,train
+609,respected sir dengue cases are rising and there is no spray in our area please fix it urgently,Health,4,Negative,0,Urgent,3,val
+611,sir the school has no science lab or computers in our area for a week,Education,5,Negative,0,Medium,1,train
+612,tareef shikayat helpline ne jaldi jawab diya aur masla hal hua aisay hi karte rahein,General,7,Positive,2,Low,0,test
+613,meherbani karke note karein official website par khidmaat ki wazeh maloomat nahi hai rozana,General,7,Negative,0,Low,0,train
+614,talba ko abhi tak muft kitabein nahi mili ek hafte se,Education,5,Negative,0,High,2,train
+615,there are frequent accidents at this intersection barae meherbani karwai karein,Traffic,6,Negative,0,Urgent,3,train
+617,bhari trucks ko din mein sheher mein dakhil hone diya jata hai kai mahine se,Traffic,6,Negative,0,High,2,val
+618,please tell me how do i apply for a new electricity meter,Electricity,2,Neutral,1,Medium,1,train
+619,meherbani karke bataein school wazifay ke liye kaise apply karun,Education,5,Neutral,1,Low,0,train
+621,is saal muft kitabein waqt par mil gayin hum bohat khush hain,Education,5,Positive,2,Low,0,test
+622,the electricity staff responded quickly to our complaint umeed hai yeh jari rahega shukriya,Electricity,2,Positive,2,Low,0,train
+623,respected sir loose electric wires are hanging near the street since yesterday,Electricity,2,Negative,0,Urgent,3,train
+624,there are no dustbins in our locality for months,Sanitation,3,Negative,0,Medium,1,train
+625,sir hamare area ki road bohat kharab hai rozana yeh emergency hai fori karwai karein,Roads / Infrastructure,0,Negative,0,High,2,test
+626,sir bina bataye kai ghantay bijli band rehti hai kai mahine se,Electricity,2,Negative,0,High,2,train
+627,shukriya doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha shabash team,Health,4,Positive,2,Low,0,val
+628,ek sawal hai gutter ki shikayat kaun sa daftar sunta hai,Sanitation,3,Neutral,1,Low,0,val
+629,achi khabar chowk par traffic wardens acha kaam kar rahe hain shabash team,Traffic,6,Positive,2,Low,0,train
+630,barish mein school ki chat tapakti hai for months kindly take action contact,Education,5,Negative,0,Urgent,3,test
+631,sir when does admission start in government schools,Education,5,Neutral,1,Low,0,train
+632,apni darkhwast ka status kaise check karun,General,7,Neutral,1,Low,0,train
+633,the doctor is absent during duty hours in our neighbourhood yeh emergency hai fori karwai karein,Health,4,Negative,0,High,2,train
+634,open dumping of waste beside the park is spreading disease in our area,Sanitation,3,Negative,0,High,2,train
+635,har shaam bohat zyada traffic jam hota hai rozana,Traffic,6,Negative,0,Medium,1,test
+637,bas yeh kehna tha doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha,Health,4,Positive,2,Low,0,train
+638,the ambulance reached very late for a critical patient in our locality for two days please look into it,Health,4,Negative,0,Urgent,3,test
+641,achi khabar naye signal se traffic jam kam ho gaya acha kaam hai,Traffic,6,Positive,2,Low,0,val
+642,tareef bijli ke amlay ne hamari shikayat par jaldi amal kiya umeed hai yeh jari rahega,Electricity,2,Positive,2,Low,0,train
+643,respected sir the bridge near our locality has developed cracks in our colony for a week kindly take action,Roads / Infrastructure,0,Negative,0,Urgent,3,val
+644,the hospital staff was very helpful and polite umeed hai yeh jari rahega shukriya,Health,4,Positive,2,Low,0,train
+645,what are the water supply timings for our block,Water Supply,1,Neutral,1,Low,0,val
+646,i want to report that there is no oxygen supply at the emergency ward in our neighbourhood for a week,Health,4,Negative,0,Urgent,3,train
+647,meherbani karke note karein road khod kar chor di gayi aur dobara nahi banayi do din se barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+648,thank you traffic wardens are doing a great job at the chowk well done team,Traffic,6,Positive,2,Low,0,val
+649,school wazifay ke liye kaise apply karun,Education,5,Neutral,1,Low,0,test
+650,meherbani karke note karein bina bataye kai ghantay bijli band rehti hai rozana baraye karam jaldi theek karwayein,Electricity,2,Negative,0,High,2,train
+651,complaint heavy trucks are allowed in the city during the day for many weeks my number is,Traffic,6,Negative,0,High,2,test
+652,power is cut for hours without any notice in our colony meherbani karke dekhein,Electricity,2,Negative,0,Medium,1,train
+653,sir poori raat loudspeaker ka shor hota hai kai mahine se yeh emergency hai fori karwai karein,General,7,Negative,0,High,2,test
+654,dear officer water pressure is very low in the morning for three days,Water Supply,1,Negative,0,High,2,train
+655,there is no zebra crossing near the school for a week call me,Traffic,6,Negative,0,High,2,train
+656,the road in our area is badly broken since yesterday,Roads / Infrastructure,0,Negative,0,Medium,1,train
+657,meherbani karke note karein bina bataye kai ghantay bijli band rehti hai ek hafte se meherbani karke dekhein,Electricity,2,Negative,0,High,2,train
+658,hamare area mein pani ki supply bilkul band hai baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,Urgent,3,train
+659,tareef is saal muft kitabein waqt par mil gayin umeed hai yeh jari rahega,Education,5,Positive,2,Low,0,train
+660,assalam o alaikum barish mein school ki chat tapakti hai meherbani karke dekhein,Education,5,Negative,0,High,2,train
+662,hello there is no drinking water for students at school in our neighbourhood every day,Education,5,Negative,0,High,2,train
+663,dear officer the park needs benches and proper lighting in our locality for two days this is an emergency act immediately,General,7,Negative,0,Medium,1,train
+664,assalam o alaikum gutter ki shikayat kaun sa daftar sunta hai,Sanitation,3,Neutral,1,Low,0,test
+666,naye pani connection ke liye kahan apply karun,Water Supply,1,Neutral,1,Medium,1,train
+667,transformer jal gaya hai aur abhi tak nahi badla gaya kai mahine se meherbani karke dekhein,Electricity,2,Negative,0,Urgent,3,train
+668,respected sir heavy trucks are allowed in the city during the day for a week,Traffic,6,Negative,0,High,2,train
+669,the new street construction was completed on time aisay hi karte rahein shukriya,Roads / Infrastructure,0,Positive,2,Low,0,train
+670,shikayat baar baar kehne ke bawajood meter nahi badla gaya kai hafton se,Electricity,2,Negative,0,Medium,1,train
+671,a heap of waste has been lying near the market for days baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,High,2,test
+673,hamare area mein load shedding bohat zyada hai kai hafton se baraye karam jaldi theek karwayein,Electricity,2,Negative,0,High,2,test
+674,please tell me where can i apply for a new water connection,Water Supply,1,Neutral,1,Low,0,test
+676,achi khabar ab kooda rozana uthaya jata hai acha iqdam hai,Sanitation,3,Positive,2,Low,0,train
+678,hamari gali se kooda nahi uthaya ja raha rozana,Sanitation,3,Negative,0,Medium,1,train
+679,thank you the water team fixed the leakage quickly great work keep it up,Water Supply,1,Positive,2,Low,0,test
+681,i want to report that load shedding is too long in our area every day it is a serious problem for everyone,Electricity,2,Negative,0,Medium,1,train
+682,heavy trucks are allowed in the city during the day for three days it is a serious problem for everyone,Traffic,6,Negative,0,High,2,train
+683,sir khara ganda pani machar paida kar raha hai,Sanitation,3,Negative,0,High,2,train
+684,bijli ki taarein gali mein latak rahi hain since yesterday please fix it urgently,Electricity,2,Negative,0,Urgent,3,train
+685,hello water pressure is very low in the morning for months,Water Supply,1,Negative,0,High,2,val
+686,respected sir the school building walls are cracked and unsafe in our neighbourhood every day kindly take action,Education,5,Negative,0,Urgent,3,train
+687,hello load shedding is too long in our area,Electricity,2,Negative,0,Medium,1,train
+688,sweepers do not come to our street kindly take action,Sanitation,3,Negative,0,Low,0,train
+689,my application has been pending for months with no update in our area for many weeks,General,7,Negative,0,High,2,train
+691,complaint loudspeakers create noise all night,General,7,Negative,0,Medium,1,train
+692,janab pani aloodah hai aur bachay beemar ho rahe hain do din se call me,Water Supply,1,Negative,0,Urgent,3,test
+693,the school building walls are cracked and unsafe in block c for a week kindly take action,Education,5,Negative,0,Urgent,3,train
+694,janab school wazifay ke liye kaise apply karun,Education,5,Neutral,1,Low,0,train
+695,quick question where can i apply for a new water connection,Water Supply,1,Neutral,1,Medium,1,train
+697,hospital ke bahar sarak toot chuki hai ambulance nahi guzar sakti,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+698,the bridge near our locality has developed cracks near the main market every day it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,High,2,train
+699,what are the opd timings of the government hospital,Health,4,Neutral,1,Medium,1,val
+700,thank you for repairing the road in our area shabash team shukriya,Roads / Infrastructure,0,Positive,2,Low,0,test
+701,shikayat meri darkhwast kai mahine se zer e iltawa hai koi jawab nahi meherbani karke dekhein,General,7,Negative,0,Medium,1,train
+702,respected sir students have not received their free textbooks in block c every day this is an emergency act immediately,Education,5,Negative,0,High,2,train
+703,meherbani karke bataein tameeri kaam ke dauran kaun sa rasta khula hai,Traffic,6,Neutral,1,Low,0,train
+704,tareef hamare school ke ustad bohat mehnati hain shukriya hum bohat khush hain,Education,5,Positive,2,Low,0,train
+705,school ke qareeb sarak dhans gayi hai rozana,Roads / Infrastructure,0,Negative,0,High,2,train
+706,shikayat har shaam bohat zyada traffic jam hota hai kai mahine se yeh emergency hai fori karwai karein,Traffic,6,Negative,0,High,2,train
+707,my application has been pending for months with no update for three days please look into it,General,7,Negative,0,High,2,test
+708,sir shops have encroached on the footpath in our locality,General,7,Negative,0,Low,0,test
+709,the electric meter was not replaced after repeated requests in our locality for many weeks call me,Electricity,2,Negative,0,Medium,1,train
+711,assalam o alaikum humein tanker ka pani kharidna par raha hai kal se,Water Supply,1,Negative,0,Medium,1,train
+712,assalam o alaikum dispensary mein dawaiyan maujood nahi hain barae meherbani karwai karein,Health,4,Negative,0,High,2,train
+713,please tell me when does admission start in government schools,Education,5,Neutral,1,Low,0,test
+715,sir basic health unit aksar band rehta hai kai hafton se meherbani karke dekhein,Health,4,Negative,0,Urgent,3,train
+716,there is heavy traffic jam every evening in our area baraye karam jaldi theek karwayein,Traffic,6,Negative,0,High,2,val
+717,hello students have not received their free textbooks,Education,5,Negative,0,Medium,1,train
+718,naye transformer se voltage ka masla hal ho gaya shukriya,Electricity,2,Positive,2,Low,0,train
+720,thank you the new signal has reduced the traffic jam good job well done team,Traffic,6,Positive,2,Low,0,train
+721,complaint there is heavy traffic jam every evening in our colony for many weeks this is an emergency act immediately see,Traffic,6,Negative,0,High,2,train
+722,sir the park needs benches and proper lighting in block c for two days,General,7,Negative,0,Low,0,train
+724,hello there is no oxygen supply at the emergency ward in our colony every day please look into it,Health,4,Negative,0,Urgent,3,test
+725,hamare muhalle ke qareeb pul mein dararein par gayi hain kai mahine se barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+726,jharoo dene wale hamari gali mein nahi aate for a week,Sanitation,3,Negative,0,Medium,1,val
+727,no traffic warden is present at the busy crossing in our area since yesterday kindly take action,Traffic,6,Negative,0,Medium,1,train
+728,complaint open dumping of waste beside the park is spreading disease in our neighbourhood since yesterday,Sanitation,3,Negative,0,High,2,train
+730,please add a mobile app to track complaint status in our locality,General,7,Negative,0,Low,0,train
+732,sir main sarak par bade bade gaddhe hain do din se meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+733,water pressure is very low in the morning for three days please look into it,Water Supply,1,Negative,0,High,2,train
+734,the basic health unit is closed most days in our neighbourhood,Health,4,Negative,0,High,2,train
+735,i want to report that load shedding is too long in our area for two days it is a serious problem for everyone,Electricity,2,Negative,0,Medium,1,test
+736,there is no drinking water for students at school in our area it is a serious problem for everyone,Education,5,Negative,0,High,2,train
+737,assalam o alaikum subah se bijli nahi hai meherbani karke dekhein,Electricity,2,Negative,0,High,2,train
+738,awara kutte logon par hamla kar rahe hain please fix it urgently,General,7,Negative,0,Urgent,3,train
+739,the park needs benches and proper lighting near the main market meherbani karke dekhein,General,7,Negative,0,Low,0,train
+740,sir school ke paas zebra crossing nahi hai,Traffic,6,Negative,0,Medium,1,train
+741,lab ki machinein kharab hain isliye tests mein der hoti hai kal se yeh sab ke liye bara masla hai,Health,4,Negative,0,Medium,1,train
+742,sewage water is mixing with the drinking water line in our locality,Sanitation,3,Negative,0,Urgent,3,train
+743,janab hamare block mein pani ki supply ke auqat kya hain,Water Supply,1,Neutral,1,Medium,1,train
+744,the complaint office does not answer any calls yeh emergency hai fori karwai karein,General,7,Negative,0,High,2,train
+746,the complaint office does not answer any calls in our neighbourhood for many weeks,General,7,Negative,0,High,2,train
+747,assalam o alaikum sector mein sarak ki tameer kab mukammal hogi,Roads / Infrastructure,0,Neutral,1,Medium,1,train
+748,the road was dug up for work and never repaired in our colony every day it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,Medium,1,train
+750,hello the street lights are not working at night for three days,Electricity,2,Negative,0,High,2,train
+751,shikayat meri darkhwast kai mahine se zer e iltawa hai koi jawab nahi teen din se,General,7,Negative,0,High,2,train
+752,good news the hospital staff was very helpful and polite hope it continues,Health,4,Positive,2,Low,0,test
+753,janab main sarak par bade bade gaddhe hain contact,Roads / Infrastructure,0,Negative,0,Medium,1,train
+754,doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha umeed hai yeh jari rahega,Health,4,Positive,2,Low,0,train
+755,gutter ka pani peenay ke pani mein mil raha hai for two days,Sanitation,3,Negative,0,Urgent,3,train
+756,kya is itwaar ko vaccination camp khula hoga,Health,4,Neutral,1,Medium,1,val
+757,janab main chowk par traffic signal kharab hai teen din se barae meherbani karwai karein,Traffic,6,Negative,0,High,2,train
+758,complaint there are no toilets for girls in the school for three days,Education,5,Negative,0,Urgent,3,train
+759,hamare area ki road theek karne ka shukriya ab bohat behtar hai aisay hi karte rahein,Roads / Infrastructure,0,Positive,2,Low,0,train
+760,the new transformer solved our voltage problem hum bohat khush hain shukriya,Electricity,2,Positive,2,Low,0,val
+761,a heap of waste has been lying near the market for days for many weeks please fix it urgently,Sanitation,3,Negative,0,High,2,val
+764,i want to report that sparks come out of the electric pole every time it rains in our colony for two days please fix it urgently,Electricity,2,Negative,0,Urgent,3,train
+765,janab pani nahi aata lekin bill phir bhi aa gaya hai yeh emergency hai fori karwai karein,Water Supply,1,Negative,0,Medium,1,train
+766,ab kooda rozana uthaya jata hai acha iqdam hai hum bohat khush hain,Sanitation,3,Positive,2,Low,0,train
+767,the tap water is dirty and smells bad near the main market,Water Supply,1,Negative,0,High,2,train
+768,just wanted to say the new street construction was completed on time hope it continues,Roads / Infrastructure,0,Positive,2,Low,0,train
+769,assalam o alaikum awara kutte logon par hamla kar rahe hain yeh emergency hai fori karwai karein,General,7,Negative,0,Urgent,3,train
+770,dear officer there are no medicines available at the dispensary in our neighbourhood for months kindly take action,Health,4,Negative,0,Urgent,3,test
+771,the teachers in our school are very dedicated shabash team shukriya,Education,5,Positive,2,Low,0,val
+775,the hospital staff was very helpful and polite shabash team shukriya,Health,4,Positive,2,Low,0,train
+776,shikayat ka status dekhne ke liye mobile app banayein kai mahine se yeh emergency hai fori karwai karein,General,7,Negative,0,High,2,train
+777,thank you the park has been renovated nicely thanks to the team well done team,General,7,Positive,2,Low,0,train
+778,the traffic signal is not working at the main chowk in block c,Traffic,6,Negative,0,Medium,1,train
+779,meherbani karke note karein raat ko street lights band hoti hain baraye karam jaldi theek karwayein,Electricity,2,Negative,0,High,2,train
+780,just wanted to say the teachers in our school are very dedicated thank you well done team,Education,5,Positive,2,Low,0,val
+782,shikayat construction ruk gayi hai aur gali mein bajri aur dhool hai kai hafton se meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+783,pani nahi aata lekin bill phir bhi aa gaya hai kal se baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,Medium,1,train
+784,the complaint helpline answered quickly and solved my issue shukriya,General,7,Positive,2,Low,0,train
+785,hamare area mein load shedding bohat zyada hai baraye karam jaldi theek karwayein my number is,Electricity,2,Negative,0,High,2,val
+786,sir an open manhole on the road is dangerous for children in our locality for three days,Roads / Infrastructure,0,Negative,0,Urgent,3,val
+787,meherbani karke bataein naye bijli meter ke liye kaise apply karun,Electricity,2,Neutral,1,Low,0,train
+788,shikayat bazar ke paas kachray ka dher kai dinon se para hai,Sanitation,3,Negative,0,Medium,1,test
+789,hello where can i apply for a new water connection,Water Supply,1,Neutral,1,Low,0,train
+793,sir the street surface has collapsed near the school it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,High,2,train
+794,sir rehaishi ilaqay mein ghair qanooni tameer ho rahi hai ek hafte se,General,7,Negative,0,High,2,train
+795,the road in our area is badly broken yeh sab ke liye bara masla hai,Roads / Infrastructure,0,Negative,0,Medium,1,test
+796,the complaint helpline answered quickly and solved my issue very satisfied,General,7,Positive,2,Low,0,train
+797,good news traffic wardens are doing a great job at the chowk keep it up,Traffic,6,Positive,2,Low,0,train
+798,sir heavy trucks are allowed in the city during the day for two days,Traffic,6,Negative,0,Medium,1,train
+799,sector mein sarak ki tameer kab mukammal hogi,Roads / Infrastructure,0,Neutral,1,Low,0,train
+800,hello open dumping of waste beside the park is spreading disease in our area for a week,Sanitation,3,Negative,0,Urgent,3,test
+802,power is cut for hours without any notice in our area this is an emergency act immediately,Electricity,2,Negative,0,High,2,train
+803,dukandaron ne footpath par qabza kar liya hai kai mahine se,General,7,Negative,0,Medium,1,train
+804,there is no electricity since morning for months please fix it urgently,Electricity,2,Negative,0,Urgent,3,train
+805,ek sawal hai naye bijli meter ke liye kaise apply karun,Electricity,2,Neutral,1,Low,0,train
+806,sir what are the opd timings of the government hospital,Health,4,Neutral,1,Medium,1,train
+807,free books were delivered on time this year hum bohat khush hain shukriya,Education,5,Positive,2,Low,0,test
+808,hello the school building walls are cracked and unsafe in our locality for two days it is a serious problem for everyone,Education,5,Negative,0,Urgent,3,train
+810,hello what is the phone number of the citizen helpline,General,7,Neutral,1,Medium,1,train
+812,respected sir the tap water is dirty and smells bad in our neighbourhood this is an emergency act immediately,Water Supply,1,Negative,0,Urgent,3,train
+813,pani ki team ne leakage jaldi theek ki shabash shabash team,Water Supply,1,Positive,2,Low,0,train
+814,load shedding is too long in our area baraye karam jaldi theek karwayein,Electricity,2,Negative,0,High,2,test
+815,shukriya gutter ki safai bohat jaldi hui shukriya aisay hi karte rahein,Sanitation,3,Positive,2,Low,0,test
+816,dear officer the transformer blew up and was never replaced in our locality for two days,Electricity,2,Negative,0,High,2,train
+818,nayi sarak ki tameer waqt par mukammal hui hum bohat khush hain,Roads / Infrastructure,0,Positive,2,Low,0,train
+819,shikayat ka status dekhne ke liye mobile app banayein for a week,General,7,Negative,0,Medium,1,train
+820,shukriya nayi pipeline ke baad pani ki supply bohat behtar ho gayi hai,Water Supply,1,Positive,2,Low,0,train
+821,shukriya gutter ki safai bohat jaldi hui shukriya hum bohat khush hain,Sanitation,3,Positive,2,Low,0,val
+823,water supply has improved a lot after the new pipeline umeed hai yeh jari rahega shukriya,Water Supply,1,Positive,2,Low,0,train
+824,bas yeh kehna tha pani ki team ne leakage jaldi theek ki shabash aisay hi karte rahein,Water Supply,1,Positive,2,Low,0,train
+825,the street is full of gravel and dust since construction stopped in our colony baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+827,sir sewage water is mixing with the drinking water line in our neighbourhood for three days,Sanitation,3,Negative,0,Urgent,3,val
+828,hello how can i report a damaged road to the municipal office,Roads / Infrastructure,0,Neutral,1,Low,0,train
+829,hello the traffic signal is not working at the main chowk in our locality for many weeks,Traffic,6,Negative,0,High,2,train
+830,hello there is no oxygen supply at the emergency ward in our locality for two days it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,train
+831,har shaam bohat zyada traffic jam hota hai for many weeks,Traffic,6,Negative,0,High,2,val
+832,i want to report that the road was dug up for work and never repaired in our area for months this is an emergency act immediately,Roads / Infrastructure,0,Negative,0,High,2,train
+833,shikayat basic health unit aksar band rehta hai barae meherbani karwai karein,Health,4,Negative,0,High,2,val
+834,poori raat loudspeaker ka shor hota hai do din se see,General,7,Negative,0,Medium,1,train
+835,i want to report that students have not received their free textbooks in our area for months please look into it,Education,5,Negative,0,High,2,val
+836,meherbani karke bataein is hafte load shedding ka schedule kya hai,Electricity,2,Neutral,1,Low,0,train
+837,motorcycles race on the road and risk lives in block c for months,Traffic,6,Negative,0,Urgent,3,val
+838,the supplied water is contaminated and children are falling sick in our colony yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,Urgent,3,train
+839,sir how can i report a damaged road to the municipal office,Roads / Infrastructure,0,Neutral,1,Low,0,train
+841,gaariyan ulti taraf se chalti hain koi nahi rokta rozana baraye karam jaldi theek karwayein,Traffic,6,Negative,0,Urgent,3,train
+842,voltage upar neeche hone se hamare appliances kharab ho rahe hain,Electricity,2,Negative,0,Medium,1,train
+844,free books were delivered on time this year umeed hai yeh jari rahega shukriya,Education,5,Positive,2,Low,0,train
+845,sir my application has been pending for months with no update for a week this is an emergency act immediately,General,7,Negative,0,High,2,train
+846,the new transformer solved our voltage problem shabash team shukriya call me,Electricity,2,Positive,2,Low,0,val
+847,sir the supplied water is contaminated and children are falling sick in our locality for a week this is an emergency act immediately,Water Supply,1,Negative,0,Urgent,3,val
+848,park mein benches aur roshni ki zaroorat hai teen din se,General,7,Negative,0,Medium,1,test
+849,sparks come out of the electric pole every time it rains in block c this is an emergency act immediately,Electricity,2,Negative,0,Urgent,3,test
+850,hello the main water pipeline is leaking and wasting water near the main market it is a serious problem for everyone,Water Supply,1,Negative,0,Medium,1,train
+851,quick question which office handles sewer line complaints,Sanitation,3,Neutral,1,Low,0,train
+852,pani aloodah hai aur bachay beemar ho rahe hain barae meherbani karwai karein,Water Supply,1,Negative,0,Urgent,3,val
+854,dear officer there is no water supply in our area for a week,Water Supply,1,Negative,0,Urgent,3,train
+855,complaint the street lights are not working at night in our neighbourhood since yesterday this is an emergency act immediately,Electricity,2,Negative,0,High,2,train
+857,water tanker blocks the road every morning contact,Traffic,6,Negative,0,Low,0,train
+858,sir how do i check the status of my application,General,7,Neutral,1,Low,0,train
+859,hamare area mein pani ki supply bilkul band hai rozana,Water Supply,1,Negative,0,High,2,train
+860,janab hospital ka staff mareezon ke sath badtameezi karta hai kai hafton se barae meherbani karwai karein,Health,4,Negative,0,High,2,test
+861,hello stray dogs are attacking people in our area since yesterday please look into it,General,7,Negative,0,High,2,train
+862,jharoo dene wale hamari gali mein nahi aate teen din se meherbani karke dekhein,Sanitation,3,Negative,0,Medium,1,train
+863,water pressure is very low in the morning yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,Medium,1,train
+864,hamare area ki road bohat kharab hai teen din se,Roads / Infrastructure,0,Negative,0,High,2,train
+866,meherbani karke note karein sarak par khula manhole bachon ke liye khatarnak hai meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,Urgent,3,val
+867,sir there is a dead animal on the road and nobody removes it in our colony for months this is an emergency act immediately,Sanitation,3,Negative,0,High,2,train
+868,quick question when will the road construction in sector be completed,Roads / Infrastructure,0,Neutral,1,Low,0,val
+870,the classrooms are overcrowded with no benches in our neighbourhood for two days please fix it urgently,Education,5,Negative,0,High,2,train
+871,khara ganda pani machar paida kar raha hai meherbani karke dekhein,Sanitation,3,Negative,0,High,2,train
+873,shukriya doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha hum bohat khush hain,Health,4,Positive,2,Low,0,train
+874,respected sir the hospital staff was rude to the patients in our neighbourhood for many weeks kindly take action,Health,4,Negative,0,High,2,train
+875,subah pani ka pressure bohat kam hota hai rozana barae meherbani karwai karein,Water Supply,1,Negative,0,Medium,1,train
+877,assalam o alaikum kooda uthane wali gaari kis waqt aati hai,Sanitation,3,Neutral,1,Low,0,train
+878,assalam o alaikum is hafte load shedding ka schedule kya hai,Electricity,2,Neutral,1,Low,0,train
+879,shikayat school ke qareeb sarak dhans gayi hai do din se meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,High,2,val
+880,assalam o alaikum meri darkhwast kai mahine se zer e iltawa hai koi jawab nahi kai hafton se,General,7,Negative,0,High,2,train
+881,dear officer sweepers do not come to our street since yesterday kindly take action,Sanitation,3,Negative,0,Low,0,train
+882,the complaint office does not answer any calls in our locality it is a serious problem for everyone,General,7,Negative,0,Medium,1,train
+883,there is heavy traffic jam every evening in our area for three days kindly take action,Traffic,6,Negative,0,High,2,train
+884,the school was closed for weeks without any reason for two days please look into it,Education,5,Negative,0,High,2,train
+887,sarkari schools mein dakhlay kab shuru hotay hain,Education,5,Neutral,1,Medium,1,train
+888,water comes only for ten minutes a day in our locality for two days it is a serious problem for everyone,Water Supply,1,Negative,0,Medium,1,train
+889,respected sir sparks come out of the electric pole every time it rains every day please look into it,Electricity,2,Negative,0,Urgent,3,train
+890,thank you for repairing the road in our area it is much better now hope it continues,Roads / Infrastructure,0,Positive,2,Low,0,train
+891,great work water supply has improved a lot after the new pipeline,Water Supply,1,Positive,2,Low,0,train
+893,dispensary mein dawaiyan maujood nahi hain baraye karam jaldi theek karwayein,Health,4,Negative,0,Urgent,3,train
+895,complaint stagnant dirty water is breeding mosquitoes in block c for three days this is an emergency act immediately,Sanitation,3,Negative,0,Urgent,3,train
+896,meherbani karke note karein awara kutte logon par hamla kar rahe hain teen din se,General,7,Negative,0,Urgent,3,train
+897,assalam o alaikum apna traffic challan online kahan dekhun,Traffic,6,Neutral,1,Low,0,test
+900,respected sir load shedding is too long in our area for a week it is a serious problem for everyone,Electricity,2,Negative,0,High,2,val
+901,sir where can i apply for a new water connection,Water Supply,1,Neutral,1,Medium,1,train
+902,just wanted to say water supply has improved a lot after the new pipeline hope it continues,Water Supply,1,Positive,2,Low,0,test
+903,please tell me what time does the garbage truck visit our street,Sanitation,3,Neutral,1,Medium,1,val
+904,hello voltage fluctuation is damaging our appliances every day,Electricity,2,Negative,0,Medium,1,train
+905,assalam o alaikum shikayat daftar koi call receive nahi karta teen din se yeh sab ke liye bara masla hai,General,7,Negative,0,High,2,train
+906,awara kutte logon par hamla kar rahe hain do din se meherbani karke dekhein,General,7,Negative,0,High,2,val
+908,garbage is now collected daily hum bohat khush hain shukriya,Sanitation,3,Positive,2,Low,0,train
+909,dear officer we are forced to buy tanker water near the main market for two days please look into it,Water Supply,1,Negative,0,Medium,1,test
+910,the school was closed for weeks without any reason in our area for months,Education,5,Negative,0,Urgent,3,train
+911,thank you the new signal has reduced the traffic jam good job keep it up,Traffic,6,Positive,2,Low,0,val
+913,complaint there is no drinking water for students at school for many weeks it is a serious problem for everyone,Education,5,Negative,0,Urgent,3,train
+914,naye bijli meter ke liye kaise apply karun,Electricity,2,Neutral,1,Medium,1,val
+916,meherbani karke note karein hamare area ki road bohat kharab hai kai mahine se barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,High,2,train
+917,gutter ka pani peenay ke pani mein mil raha hai ek hafte se pic attached,Sanitation,3,Negative,0,Urgent,3,train
+918,hamare area mein load shedding bohat zyada hai meherbani karke dekhein,Electricity,2,Negative,0,Medium,1,train
+919,hello there are huge potholes on the main street in our area this is an emergency act immediately,Roads / Infrastructure,0,Negative,0,High,2,train
+920,ek sawal hai school wazifay ke liye kaise apply karun contact,Education,5,Neutral,1,Low,0,train
+921,the drain is blocked and smells terrible in our area,Sanitation,3,Negative,0,Medium,1,val
+922,sir how do i apply for a new electricity meter,Electricity,2,Neutral,1,Medium,1,train
+923,sir teachers are often absent from the government school in block c for three days please fix it urgently,Education,5,Negative,0,High,2,val
+924,chowk par traffic wardens acha kaam kar rahe hain shabash team,Traffic,6,Positive,2,Low,0,val
+926,sir school mein science lab aur computers nahi hain kai mahine se barae meherbani karwai karein,Education,5,Negative,0,Medium,1,test
+927,respected sir there is no electricity since morning in our area for many weeks it is a serious problem for everyone,Electricity,2,Negative,0,Urgent,3,train
+928,sir the park needs benches and proper lighting for months this is an emergency act immediately,General,7,Negative,0,High,2,train
+929,bas yeh kehna tha ab kooda rozana uthaya jata hai acha iqdam hai shabash team,Sanitation,3,Positive,2,Low,0,train
+930,i want to report that a heap of waste has been lying near the market for days since yesterday please look into it,Sanitation,3,Negative,0,Medium,1,train
+931,there is no drinking water for students at school in block c yeh sab ke liye bara masla hai,Education,5,Negative,0,High,2,train
+932,footpath toota hua hai buzurgon ke liye ghair mehfooz hai barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+933,the street is full of gravel and dust since construction stopped in our colony,Roads / Infrastructure,0,Negative,0,Low,0,train
+934,respected sir my application has been pending for months with no update in our locality it is a serious problem for everyone,General,7,Negative,0,Medium,1,val
+937,bas yeh kehna tha hamare area ki road theek karne ka shukriya ab bohat behtar hai,Roads / Infrastructure,0,Positive,2,Low,0,train
+938,the ambulance reached very late for a critical patient in our neighbourhood since yesterday it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,test
+939,complaint the park needs benches and proper lighting in our locality,General,7,Negative,0,Low,0,train
+941,sarak par khula manhole bachon ke liye khatarnak hai,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+942,toot phoot road par barish ka pani jama ho jata hai for a week,Roads / Infrastructure,0,Negative,0,High,2,train
+943,school bina wajah kai hafton se band hai,Education,5,Negative,0,High,2,val
+944,quick question what is the phone number of the citizen helpline,General,7,Neutral,1,Low,0,val
+945,dear officer the traffic signal is not working at the main chowk in our neighbourhood please fix it urgently,Traffic,6,Negative,0,High,2,train
+946,assalam o alaikum kharab road ki shikayat municipal office mein kaise karun contact,Roads / Infrastructure,0,Neutral,1,Low,0,train
+948,please add a mobile app to track complaint status meherbani karke dekhein,General,7,Negative,0,Low,0,train
+949,i want to report that sweepers do not come to our street near the main market for a week kindly take action,Sanitation,3,Negative,0,Medium,1,train
+951,respected sir a heap of waste has been lying near the market for days for many weeks,Sanitation,3,Negative,0,High,2,test
+952,i want to report that the footpath is broken and unsafe for elderly people for many weeks it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,High,2,train
+954,stray dogs are attacking people in our area for months this is an emergency act immediately,General,7,Negative,0,Urgent,3,val
+955,tareef nayi sarak ki tameer waqt par mukammal hui shabash team,Roads / Infrastructure,0,Positive,2,Low,0,val
+957,voltage fluctuation is damaging our appliances in our neighbourhood barae meherbani karwai karein,Electricity,2,Negative,0,Medium,1,train
+958,is saal muft kitabein waqt par mil gayin,Education,5,Positive,2,Low,0,test
+959,bas yeh kehna tha park ki acchi marammat hui team ka shukriya shabash team,General,7,Positive,2,Low,0,train
+960,dukandaron ne footpath par qabza kar liya hai for many weeks please fix it urgently,General,7,Negative,0,High,2,train
+961,the scholarship payment has been delayed for months since yesterday this is an emergency act immediately,Education,5,Negative,0,High,2,train
+962,please add a mobile app to track complaint status yeh emergency hai fori karwai karein,General,7,Negative,0,Medium,1,train
+963,the complaint helpline answered quickly and solved my issue well done team,General,7,Positive,2,Low,0,train
+964,bas yeh kehna tha nayi pipeline ke baad pani ki supply bohat behtar ho gayi hai aisay hi karte rahein,Water Supply,1,Positive,2,Low,0,train
+965,shikayat is chowrahe par aye din hadsay hote hain,Traffic,6,Negative,0,Urgent,3,train
+966,there are no toilets for girls in the school meherbani karke dekhein,Education,5,Negative,0,High,2,train
+967,janab sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya ek hafte se barae meherbani karwai karein,General,7,Negative,0,High,2,test
+968,i want to report that loose electric wires are hanging near the street for months,Electricity,2,Negative,0,Urgent,3,val
+969,sir the scholarship payment has been delayed for months near the main market for months please look into it,Education,5,Negative,0,High,2,test
+970,just wanted to say the park has been renovated nicely thanks to the team,General,7,Positive,2,Low,0,train
+972,the ambulance reached very late for a critical patient in our locality yeh sab ke liye bara masla hai,Health,4,Negative,0,Urgent,3,train
+973,assalam o alaikum sarkari hospital ki opd ke auqat kya hain,Health,4,Neutral,1,Low,0,train
+974,the water team fixed the leakage quickly great work hope it continues,Water Supply,1,Positive,2,Low,0,train
+976,there are no dustbins in our locality every day this is an emergency act immediately,Sanitation,3,Negative,0,Medium,1,train
+977,the basic health unit is closed most days in our colony for months kindly take action,Health,4,Negative,0,Urgent,3,train
+978,achi khabar shikayat helpline ne jaldi jawab diya aur masla hal hua hum bohat khush hain,General,7,Positive,2,Low,0,test
+981,the main water pipeline is leaking and wasting water in our locality baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,High,2,train
+983,sir naali band hai aur bohat badbu aa rahi hai kai hafton se yeh sab ke liye bara masla hai,Sanitation,3,Negative,0,High,2,train
+985,achi khabar hospital ka staff bohat madadgar aur shaista tha umeed hai yeh jari rahega,Health,4,Positive,2,Low,0,test
+986,please tell me what is the schedule of load shedding this week contact,Electricity,2,Neutral,1,Low,0,train
+988,assalam o alaikum ghair qanooni parking se poori sarak band ho jati hai ek hafte se,Traffic,6,Negative,0,High,2,train
+989,sir school ki imarat ki deewarein toot chuki hain aur ghair mehfooz hain rozana,Education,5,Negative,0,Urgent,3,val
+990,motorcycle sawar tez raftari se chalate hain jaan ka khatra hai for a week please fix it urgently,Traffic,6,Negative,0,Urgent,3,train
+991,tareef hospital ka staff bohat madadgar aur shaista tha hum bohat khush hain,Health,4,Positive,2,Low,0,train
+993,hello the water filtration plant in our locality is not working every day kindly take action,Water Supply,1,Negative,0,Medium,1,train
+994,thank you for repairing the road in our area hum bohat khush hain shukriya,Roads / Infrastructure,0,Positive,2,Low,0,train
+995,poori raat loudspeaker ka shor hota hai,General,7,Negative,0,Medium,1,train
+997,respected sir the school was closed for weeks without any reason in our neighbourhood it is a serious problem for everyone,Education,5,Negative,0,High,2,train
+998,meherbani karke note karein raat ko street lights band hoti hain,Electricity,2,Negative,0,Medium,1,train
+999,the water bill is wrong although we get no supply in our locality since yesterday,Water Supply,1,Negative,0,Low,0,test
+1000,hospital ka staff mareezon ke sath badtameezi karta hai please look into it,Health,4,Negative,0,Medium,1,train
+1001,sarkari school mein ustad aksar ghair hazir rehte hain kai mahine se,Education,5,Negative,0,High,2,train
+1002,sir the supplied water is contaminated and children are falling sick in block c for three days please fix it urgently,Water Supply,1,Negative,0,Urgent,3,train
+1003,please tell me is the vaccination camp open this sunday,Health,4,Neutral,1,Low,0,train
+1004,bijli ki taarein gali mein latak rahi hain ek hafte se yeh emergency hai fori karwai karein,Electricity,2,Negative,0,Urgent,3,train
+1006,respected sir the hospital wards are dirty and unhygienic please fix it urgently,Health,4,Negative,0,High,2,train
+1009,hospital ka staff bohat madadgar aur shaista tha,Health,4,Positive,2,Low,0,val
+1010,nalke ka pani ganda hai aur badbu aati hai for a week kindly take action,Water Supply,1,Negative,0,Urgent,3,train
+1012,achi khabar hamare school ke ustad bohat mehnati hain shukriya,Education,5,Positive,2,Low,0,train
+1013,naali band hai aur bohat badbu aa rahi hai for a week it is a serious problem for everyone,Sanitation,3,Negative,0,High,2,train
+1015,dear officer the water bill is wrong although we get no supply in our colony for two days,Water Supply,1,Negative,0,Low,0,train
+1016,sir loudspeakers create noise all night this is an emergency act immediately,General,7,Negative,0,High,2,train
+1018,hello voltage fluctuation is damaging our appliances every day see,Electricity,2,Negative,0,Medium,1,train
+1019,is chowrahe par aye din hadsay hote hain rozana yeh sab ke liye bara masla hai,Traffic,6,Negative,0,Urgent,3,train
+1021,assalam o alaikum khara ganda pani machar paida kar raha hai ek hafte se baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,Urgent,3,test
+1022,the road is broken and rainwatter is standing on it for days,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1023,naye transformer se voltage ka masla hal ho gaya shukriya shabash team,Electricity,2,Positive,2,Low,0,test
+1024,assalam o alaikum apni darkhwast ka status kaise check karun,General,7,Neutral,1,Medium,1,train
+1025,bas yeh kehna tha bijli ke amlay ne hamari shikayat par jaldi amal kiya my number is,Electricity,2,Positive,2,Low,0,train
+1026,stagnant dirty water is breeding mosquitoes in our colony every day please look into it,Sanitation,3,Negative,0,High,2,train
+1027,heavy trucks are allowed in the city during the day for many weeks please look into it,Traffic,6,Negative,0,High,2,train
+1028,the park needs benches and proper lighting,General,7,Negative,0,Low,0,train
+1029,complaint an open manhole on the road is dangerous for children in our colony for three days it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+1030,sweepers do not come to our street in our locality for a week please fix it urgently,Sanitation,3,Negative,0,High,2,train
+1032,construction ruk gayi hai aur gali mein bajri aur dhool hai barae meherbani karwai karein,Roads / Infrastructure,0,Negative,0,Low,0,test
+1033,sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya teen din se meherbani karke dekhein,General,7,Negative,0,High,2,test
+1037,dear officer rainwater collects on the damaged road every day,Roads / Infrastructure,0,Negative,0,Medium,1,val
+1039,the hospital staff was very helpful and polite hope it continues,Health,4,Positive,2,Low,0,test
+1041,hamari gali se kooda nahi uthaya ja raha barae meherbani karwai karein,Sanitation,3,Negative,0,Medium,1,val
+1042,shops have encroached on the footpath in block c,General,7,Negative,0,Low,0,train
+1044,students have not received their free textbooks in our neighbourhood,Education,5,Negative,0,Medium,1,train
+1045,garbage is not collected from our street in our neighbourhood for two days please fix it urgently call me,Sanitation,3,Negative,0,High,2,train
+1046,sir critical mareez ke liye ambulance bohat der se pohanchi baraye karam jaldi theek karwayein,Health,4,Negative,0,Urgent,3,train
+1048,janab classrooms mein bohat bheed hai aur benches nahi hain ek hafte se yeh sab ke liye bara masla hai,Education,5,Negative,0,High,2,train
+1050,respected sir the electricity bill is much higher than usual in our colony for many weeks,Electricity,2,Negative,0,Medium,1,train
+1051,assalam o alaikum jharoo dene wale hamari gali mein nahi aate meherbani karke dekhein,Sanitation,3,Negative,0,Low,0,train
+1052,rainwater collects on the damaged road every day near the main market,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1054,rainwater collects on the damaged road every day near the main market for many weeks,Roads / Infrastructure,0,Negative,0,High,2,train
+1055,humein tanker ka pani kharidna par raha hai kai mahine se,Water Supply,1,Negative,0,High,2,val
+1057,sir there are frequent accidents at this intersection in our area for a week,Traffic,6,Negative,0,Urgent,3,val
+1058,the tube well has stopped working in our locality meherbani karke dekhein,Water Supply,1,Negative,0,High,2,train
+1059,tareef nayi pipeline ke baad pani ki supply bohat behtar ho gayi hai aisay hi karte rahein,Water Supply,1,Positive,2,Low,0,train
+1060,janab hospital ke wards ganday aur ghair saaf hain kai mahine se yeh sab ke liye bara masla hai,Health,4,Negative,0,High,2,train
+1061,bhari trucks ko din mein sheher mein dakhil hone diya jata hai rozana,Traffic,6,Negative,0,Medium,1,train
+1062,the drain is blocked and smells terrible every day this is an emergency act immediately,Sanitation,3,Negative,0,High,2,val
+1063,meherbani karke note karein school bina wajah kai hafton se band hai meherbani karke dekhein,Education,5,Negative,0,High,2,val
+1064,dear officer there is heavy traffic jam every evening for many weeks this is an emergency act immediately,Traffic,6,Negative,0,High,2,train
+1065,respected sir the water filtration plant in our locality is not working for many weeks this is an emergency act immediately,Water Supply,1,Negative,0,High,2,train
+1066,no traffic warden is present at the busy crossing yeh sab ke liye bara masla hai,Traffic,6,Negative,0,Medium,1,train
+1067,sir the electric meter was not replaced after repeated requests in our locality,Electricity,2,Negative,0,Low,0,test
+1068,tareef chowk par traffic wardens acha kaam kar rahe hain,Traffic,6,Positive,2,Low,0,train
+1070,janab sarak par murda janwar para hai koi nahi uthata,Sanitation,3,Negative,0,Medium,1,test
+1072,shikayat daftar koi call receive nahi karta ek hafte se yeh emergency hai fori karwai karein,General,7,Negative,0,High,2,train
+1073,sir the electric meter was not replaced after repeated requests in our colony for a week kindly take action,Electricity,2,Negative,0,Medium,1,train
+1075,bina bataye kai ghantay bijli band rehti hai for two days,Electricity,2,Negative,0,Medium,1,test
+1077,meherbani karke note karein raat ko street lights band hoti hain kai hafton se,Electricity,2,Negative,0,High,2,train
+1078,sir school ke qareeb sarak dhans gayi hai contact,Roads / Infrastructure,0,Negative,0,High,2,train
+1079,the teachers in our school are very dedicated umeed hai yeh jari rahega shukriya,Education,5,Positive,2,Low,0,train
+1082,the electric meter was not replaced after repeated requests in our area meherbani karke dekhein,Electricity,2,Negative,0,Low,0,train
+1083,sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya,General,7,Negative,0,Medium,1,test
+1084,i want to report that rainwater collects on the damaged road every day for many weeks please look into it,Roads / Infrastructure,0,Negative,0,High,2,test
+1085,complaint there are no toilets for girls in the school for many weeks,Education,5,Negative,0,Urgent,3,train
+1086,the ambulance reached very late for a critical patient for many weeks,Health,4,Negative,0,Urgent,3,train
+1087,shikayat daftar koi call receive nahi karta ek hafte se baraye karam jaldi theek karwayein,General,7,Negative,0,High,2,train
+1090,water supply has improved a lot after the new pipeline hope it continues,Water Supply,1,Positive,2,Low,0,train
+1091,bijli ke amlay ne hamari shikayat par jaldi amal kiya umeed hai yeh jari rahega,Electricity,2,Positive,2,Low,0,val
+1092,water comes only for ten minutes a day in our colony meherbani karke dekhein,Water Supply,1,Negative,0,Medium,1,val
+1094,assalam o alaikum nalke ka pani ganda hai aur badbu aati hai kal se yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,High,2,train
+1095,shikayat sarkari school mein ustad aksar ghair hazir rehte hain ek hafte se,Education,5,Negative,0,High,2,val
+1096,janab khara ganda pani machar paida kar raha hai teen din se baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,Urgent,3,test
+1098,appreciation free books were delivered on time this year hope it continues,Education,5,Positive,2,Low,0,train
+1099,respected sir the road was dug up for work and never repaired near the main market every day,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1101,please tell me how do i check the status of my application,General,7,Neutral,1,Low,0,test
+1102,meherbani karke note karein voltage upar neeche hone se hamare appliances kharab ho rahe hain ek hafte se yeh emergency hai fori karwai karein pic attached,Electricity,2,Negative,0,High,2,val
+1103,footpath toota hua hai buzurgon ke liye ghair mehfooz hai for many weeks please fix it urgently,Roads / Infrastructure,0,Negative,0,High,2,train
+1105,traffic wardens are doing a great job at the chowk hum bohat khush hain shukriya,Traffic,6,Positive,2,Low,0,train
+1106,the ambulance reached very late for a critical patient in our area for three days it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,train
+1107,ek sawal hai sarkari hospital ki opd ke auqat kya hain,Health,4,Neutral,1,Low,0,train
+1109,sir illegal parking blocks the whole road every day please look into it,Traffic,6,Negative,0,Medium,1,train
+1111,sir there is no drinking water for students at school please fix it urgently,Education,5,Negative,0,Urgent,3,train
+1112,just wanted to say doctors treated my mother well and the hospital was clean well done team,Health,4,Positive,2,Low,0,train
+1114,pani aloodah hai aur bachay beemar ho rahe hain for months this is an emergency act immediately,Water Supply,1,Negative,0,Urgent,3,train
+1115,the electricity bill is much higher than usual in our area every day,Electricity,2,Negative,0,Low,0,train
+1116,shikayat bijli ki taarein gali mein latak rahi hain kai mahine se yeh sab ke liye bara masla hai,Electricity,2,Negative,0,Urgent,3,train
+1117,assalam o alaikum gaariyan ulti taraf se chalti hain koi nahi rokta kai hafton se yeh sab ke liye bara masla hai,Traffic,6,Negative,0,Urgent,3,train
+1118,i want to report that the school has no science lab or computers in our neighbourhood for three days this is an emergency act immediately,Education,5,Negative,0,High,2,train
+1119,the complaint helpline answered quickly and solved my issue keep it up,General,7,Positive,2,Low,0,val
+1120,water tanker blocks the road every morning,Traffic,6,Negative,0,Low,0,train
+1123,naali band hai aur bohat badbu aa rahi hai please fix it urgently,Sanitation,3,Negative,0,High,2,train
+1124,gutter ki safai bohat jaldi hui shukriya,Sanitation,3,Positive,2,Low,0,train
+1125,there is no zebra crossing near the school please fix it urgently pic attached,Traffic,6,Negative,0,High,2,val
+1126,the new transformer solved our voltage problem umeed hai yeh jari rahega shukriya,Electricity,2,Positive,2,Low,0,train
+1127,assalam o alaikum school mein bachon ke liye peenay ka pani nahi hai rozana,Education,5,Negative,0,High,2,val
+1128,pani ki main pipeline leak ho rahi hai aur pani zaya ho raha hai for a week it is a serious problem for everyone,Water Supply,1,Negative,0,High,2,train
+1130,power is cut for hours without any notice in our neighbourhood,Electricity,2,Negative,0,Medium,1,train
+1132,there are huge potholes on the main street in our locality for two days please look into it,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1133,sir the tap water is dirty and smells bad in our area for three days,Water Supply,1,Negative,0,Urgent,3,train
+1134,the sewer was cleaned very fast appreciated well done team,Sanitation,3,Positive,2,Low,0,train
+1135,there are no medicines available at the dispensary in our colony,Health,4,Negative,0,High,2,train
+1136,the street lights are not working at night in our colony,Electricity,2,Negative,0,Medium,1,test
+1137,barish mein bijli ke khambay se chingariyan nikalti hain do din se yeh emergency hai fori karwai karein,Electricity,2,Negative,0,Urgent,3,test
+1138,respected sir motorcycles race on the road and risk lives near the main market every day,Traffic,6,Negative,0,High,2,train
+1139,assalam o alaikum naye bijli meter ke liye kaise apply karun,Electricity,2,Neutral,1,Low,0,test
+1140,respected sir the supplied water is contaminated and children are falling sick in block c every day kindly take action,Water Supply,1,Negative,0,Urgent,3,test
+1141,assalam o alaikum hamare muhalle ka filtration plant band para hai kai hafton se,Water Supply,1,Negative,0,High,2,train
+1143,thank you doctors treated my mother well and the hospital was clean hope it continues,Health,4,Positive,2,Low,0,train
+1144,i want to report that the complaint office does not answer any calls near the main market for three days please fix it urgently,General,7,Negative,0,High,2,train
+1145,the electric meter was not replaced after repeated requests in our area,Electricity,2,Negative,0,Low,0,train
+1146,the bridge near our locality has developed cracks in our neighbourhood baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+1147,meherbani karke note karein barish mein bijli ke khambay se chingariyan nikalti hain do din se barae meherbani karwai karein,Electricity,2,Negative,0,Urgent,3,train
+1148,transformer jal gaya hai aur abhi tak nahi badla gaya meherbani karke dekhein my number is,Electricity,2,Negative,0,High,2,train
+1149,rehaishi ilaqay mein ghair qanooni tameer ho rahi hai kai hafton se meherbani karke dekhein contact,General,7,Negative,0,High,2,train
+1150,hamare area ki road bohat kharab hai for two days please look into it see,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1151,basic health unit aksar band rehta hai for two days,Health,4,Negative,0,High,2,test
+1152,baar baar kehne ke bawajood meter nahi badla gaya every day,Electricity,2,Negative,0,Low,0,train
+1153,garbage is now collected daily good improvement well done team contact,Sanitation,3,Positive,2,Low,0,train
+1154,hello the bridge near our locality has developed cracks in our locality for two days,Roads / Infrastructure,0,Negative,0,High,2,train
+1155,janab rehaishi ilaqay mein ghair qanooni tameer ho rahi hai teen din se yeh emergency hai fori karwai karein,General,7,Negative,0,High,2,train
+1157,dear officer the school building walls are cracked and unsafe in our area for three days please fix it urgently,Education,5,Negative,0,Urgent,3,test
+1158,sir there is no oxygen supply at the emergency ward in our colony for three days this is an emergency act immediately,Health,4,Negative,0,Urgent,3,train
+1159,the street lights are not working at night this is an emergency act immediately,Electricity,2,Negative,0,High,2,val
+1160,gutter ka pani sarak par beh raha hai for months kindly take action,Sanitation,3,Negative,0,Urgent,3,train
+1161,thank you for repairing the road in our area it is much better now,Roads / Infrastructure,0,Positive,2,Low,0,train
+1162,sir bhari trucks ko din mein sheher mein dakhil hone diya jata hai do din se yeh emergency hai fori karwai karein,Traffic,6,Negative,0,High,2,val
+1163,shukriya bijli ke amlay ne hamari shikayat par jaldi amal kiya hum bohat khush hain,Electricity,2,Positive,2,Low,0,test
+1164,i want to report that there is no drinking water for students at school since yesterday it is a serious problem for everyone,Education,5,Negative,0,High,2,train
+1165,janab kya is itwaar ko vaccination camp khula hoga,Health,4,Neutral,1,Medium,1,test
+1166,meherbani karke note karein naali band hai aur bohat badbu aa rahi hai do din se,Sanitation,3,Negative,0,Medium,1,train
+1167,teachers are often absent from the government school yeh emergency hai fori karwai karein,Education,5,Negative,0,High,2,train
+1168,janab hospital ke wards ganday aur ghair saaf hain rozana,Health,4,Negative,0,Medium,1,train
+1171,doctor duty ke auqat mein ghair hazir rehta hai for three days it is a serious problem for everyone,Health,4,Negative,0,High,2,test
+1172,great work free books were delivered on time this year,Education,5,Positive,2,Low,0,train
+1173,citizen helpline ka number kya hai,General,7,Neutral,1,Low,0,train
+1174,pani nahi aata lekin bill phir bhi aa gaya hai do din se,Water Supply,1,Negative,0,Low,0,val
+1175,talba ko abhi tak muft kitabein nahi mili do din se baraye karam jaldi theek karwayein,Education,5,Negative,0,High,2,train
+1180,transformer jal gaya hai aur abhi tak nahi badla gaya this is an emergency act immediately,Electricity,2,Negative,0,Urgent,3,train
+1181,barish mein school ki chat tapakti hai since yesterday this is an emergency act immediately,Education,5,Negative,0,Urgent,3,train
+1182,hamare area mein load shedding bohat zyada hai yeh emergency hai fori karwai karein,Electricity,2,Negative,0,High,2,val
+1183,dear officer heavy trucks are allowed in the city during the day for three days,Traffic,6,Negative,0,High,2,train
+1186,hello the street is full of gravel and dust since construction stopped every day,Roads / Infrastructure,0,Negative,0,Low,0,val
+1187,shukriya gutter ki safai bohat jaldi hui shukriya,Sanitation,3,Positive,2,Low,0,train
+1188,respected sir there are no medicines available at the dispensary for two days please fix it urgently,Health,4,Negative,0,Urgent,3,train
+1189,respected sir the sewer line is overflowing onto the street in our locality please fix it urgently,Sanitation,3,Negative,0,Urgent,3,train
+1190,stagnant dirty water is breeding mosquitoes near the main market,Sanitation,3,Negative,0,High,2,test
+1192,rainwater collects on the damaged road every day please fix it urgently,Roads / Infrastructure,0,Negative,0,High,2,train
+1194,sir the school roof leaks during rain since yesterday it is a serious problem for everyone,Education,5,Negative,0,High,2,train
+1195,the tap water is dirty and smells bad in our colony,Water Supply,1,Negative,0,High,2,train
+1198,the bridge near our locality has developed cracks in our neighbourhood every day kindly take action,Roads / Infrastructure,0,Negative,0,High,2,val
+1199,hamare area ki road theek karne ka shukriya ab bohat behtar hai shabash team,Roads / Infrastructure,0,Positive,2,Low,0,train
+1200,hello the sewer line is overflowing onto the street in our locality,Sanitation,3,Negative,0,High,2,val
+1202,traffic signal is off because of the power cut,Traffic,6,Negative,0,Medium,1,train
+1203,the speed breaker is too high and damages vehicles in block c for a week it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,Medium,1,test
+1204,poori raat loudspeaker ka shor hota hai every day please fix it urgently,General,7,Negative,0,High,2,train
+1205,please tell me where can i check my traffic challan online,Traffic,6,Neutral,1,Low,0,train
+1207,meherbani karke note karein sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya kai mahine se barae meherbani karwai karein,General,7,Negative,0,High,2,train
+1208,basic health unit aksar band rehta hai yeh sab ke liye bara masla hai,Health,4,Negative,0,High,2,val
+1209,assalam o alaikum footpath toota hua hai buzurgon ke liye ghair mehfooz hai kai hafton se baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,High,2,train
+1210,we are forced to buy tanker water,Water Supply,1,Negative,0,Medium,1,train
+1211,janab ghair qanooni parking se poori sarak band ho jati hai ek hafte se baraye karam jaldi theek karwayein,Traffic,6,Negative,0,High,2,train
+1212,complaint sweepers do not come to our street in our area,Sanitation,3,Negative,0,Low,0,train
+1214,respected sir there is no zebra crossing near the school for many weeks please fix it urgently,Traffic,6,Negative,0,High,2,train
+1215,the school was closed for weeks without any reason near the main market since yesterday please look into it,Education,5,Negative,0,High,2,train
+1216,stray dogs are attacking people in our area this is an emergency act immediately,General,7,Negative,0,Urgent,3,val
+1217,talba ko abhi tak muft kitabein nahi mili since yesterday,Education,5,Negative,0,Medium,1,val
+1218,sir please add a mobile app to track complaint status in our colony for three days,General,7,Negative,0,Medium,1,train
+1220,appreciation thank you for repairing the road in our area it is much better now,Roads / Infrastructure,0,Positive,2,Low,0,train
+1222,complaint the park needs benches and proper lighting in our colony for two days please look into it,General,7,Negative,0,Low,0,test
+1223,bazar ke paas kachray ka dher kai dinon se para hai baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,High,2,train
+1224,hello there is no water supply in our area for two days kindly take action,Water Supply,1,Negative,0,High,2,train
+1225,dear officer the hospital wards are dirty and unhygienic in our colony for many weeks,Health,4,Negative,0,High,2,train
+1226,hello the street is full of gravel and dust since construction stopped in block c,Roads / Infrastructure,0,Negative,0,Low,0,train
+1228,bijli nahi hai to tube well band hai aur pani nahi aa raha,Electricity,2,Negative,0,High,2,train
+1229,hello there is a dead animal on the road and nobody removes it in our locality for months this is an emergency act immediately,Sanitation,3,Negative,0,High,2,train
+1230,bhari trucks ko din mein sheher mein dakhil hone diya jata hai,Traffic,6,Negative,0,Medium,1,train
+1231,assalam o alaikum bhari trucks ko din mein sheher mein dakhil hone diya jata hai yeh emergency hai fori karwai karein,Traffic,6,Negative,0,High,2,val
+1232,hello the classrooms are overcrowded with no benches please look into it my number is,Education,5,Negative,0,Medium,1,test
+1234,bas yeh kehna tha bijli ke amlay ne hamari shikayat par jaldi amal kiya umeed hai yeh jari rahega see,Electricity,2,Positive,2,Low,0,test
+1236,the government office staff behaved badly with us near the main market this is an emergency act immediately,General,7,Negative,0,High,2,train
+1237,complaint the government office staff behaved badly with us near the main market for months kindly take action,General,7,Negative,0,High,2,test
+1238,shikayat hamare area mein pani ki supply bilkul band hai kal se,Water Supply,1,Negative,0,High,2,train
+1239,sir there are no toilets for girls in the school for a week please fix it urgently,Education,5,Negative,0,Urgent,3,test
+1240,the street is full of gravel and dust since construction stopped in our neighbourhood baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1241,complaint students have not received their free textbooks in our locality for two days,Education,5,Negative,0,Medium,1,train
+1244,respected sir shops have encroached on the footpath in our area for months,General,7,Negative,0,Medium,1,train
+1245,thank you the complaint helpline answered quickly and solved my issue,General,7,Positive,2,Low,0,test
+1247,achi khabar doctors ne meri walida ka acha ilaj kiya aur hospital saaf tha shabash team,Health,4,Positive,2,Low,0,train
+1248,sarkari hospital ki opd ke auqat kya hain pic attached,Health,4,Neutral,1,Low,0,train
+1250,sir there is no zebra crossing near the school kindly take action,Traffic,6,Negative,0,Medium,1,val
+1251,janab school ke paas zebra crossing nahi hai rozana,Traffic,6,Negative,0,Medium,1,train
+1255,the water team fixed the leakage quickly shabash team shukriya,Water Supply,1,Positive,2,Low,0,test
+1256,complaint the school was closed for weeks without any reason near the main market for three days please fix it urgently,Education,5,Negative,0,Urgent,3,train
+1259,the electricity bill is much higher than usual in our area for two days this is an emergency act immediately,Electricity,2,Negative,0,Medium,1,test
+1260,the water filtration plant in our locality is not working barae meherbani karwai karein,Water Supply,1,Negative,0,Medium,1,train
+1261,complaint the school was closed for weeks without any reason in our neighbourhood for months this is an emergency act immediately,Education,5,Negative,0,Urgent,3,train
+1263,assalam o alaikum baar baar kehne ke bawajood meter nahi badla gaya,Electricity,2,Negative,0,Low,0,train
+1264,hello the supplied water is contaminated and children are falling sick in our area please fix it urgently,Water Supply,1,Negative,0,Urgent,3,val
+1265,sweepers do not come to our street in our colony every day please fix it urgently,Sanitation,3,Negative,0,Medium,1,train
+1267,meherbani karke bataein kooda uthane wali gaari kis waqt aati hai contact,Sanitation,3,Neutral,1,Low,0,test
+1268,shikayat sarkari school mein ustad aksar ghair hazir rehte hain ek hafte se yeh emergency hai fori karwai karein,Education,5,Negative,0,High,2,test
+1269,speed breaker bohat ooncha hai gaariyan kharab hoti hain rozana yeh emergency hai fori karwai karein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1270,sir motorcycles race on the road and risk lives in our neighbourhood for months,Traffic,6,Negative,0,Urgent,3,train
+1271,complaint the tap water is dirty and smells bad for two days,Water Supply,1,Negative,0,High,2,train
+1272,rainwater collects on the damaged road every day in our neighbourhood,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1274,janab hospital ke wards ganday aur ghair saaf hain baraye karam jaldi theek karwayein,Health,4,Negative,0,High,2,train
+1275,sarak par murda janwar para hai koi nahi uthata kai hafton se baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,High,2,train
+1276,sir vehicles drive on the wrong side and nobody stops them in our area since yesterday this is an emergency act immediately,Traffic,6,Negative,0,Urgent,3,val
+1277,shukriya hamare school ke ustad bohat mehnati hain shukriya umeed hai yeh jari rahega,Education,5,Positive,2,Low,0,train
+1279,sir rehaishi ilaqay mein ghair qanooni tameer ho rahi hai kai mahine se barae meherbani karwai karein call me,General,7,Negative,0,High,2,train
+1281,bas yeh kehna tha hamare area ki road theek karne ka shukriya ab bohat behtar hai shabash team,Roads / Infrastructure,0,Positive,2,Low,0,test
+1282,sir what is the schedule of load shedding this week,Electricity,2,Neutral,1,Low,0,train
+1283,appreciation the teachers in our school are very dedicated thank you keep it up,Education,5,Positive,2,Low,0,train
+1284,the park has been renovated nicely thanks to the team keep it up,General,7,Positive,2,Low,0,train
+1286,shukriya hamare school ke ustad bohat mehnati hain shukriya aisay hi karte rahein,Education,5,Positive,2,Low,0,val
+1289,appreciation the electricity staff responded quickly to our complaint keep it up,Electricity,2,Positive,2,Low,0,train
+1290,dukandaron ne footpath par qabza kar liya hai it is a serious problem for everyone,General,7,Negative,0,Low,0,val
+1291,dear officer motorcycles race on the road and risk lives in our colony,Traffic,6,Negative,0,High,2,train
+1292,janab subah se bijli nahi hai kal se,Electricity,2,Negative,0,High,2,val
+1295,the waiting time at the hospital is too long in block c for three days,Health,4,Negative,0,High,2,train
+1299,complaint students have not received their free textbooks,Education,5,Negative,0,Medium,1,train
+1300,dear officer an open manhole on the road is dangerous for children for two days this is an emergency act immediately,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+1301,doctors treated my mother well and the hospital was clean umeed hai yeh jari rahega shukriya,Health,4,Positive,2,Low,0,train
+1302,respected sir sewage water is mixing with the drinking water line in our locality for three days,Sanitation,3,Negative,0,Urgent,3,train
+1303,main sarak par bade bade gaddhe hain do din se baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,High,2,val
+1305,shops have encroached on the footpath in our area for three days my number is,General,7,Negative,0,Medium,1,val
+1306,an open manhole on the road is dangerous for children in our area kindly take action,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+1308,the bridge near our locality has developed cracks in our colony yeh emergency hai fori karwai karein,Roads / Infrastructure,0,Negative,0,Urgent,3,train
+1309,hello the water filtration plant in our locality is not working for months,Water Supply,1,Negative,0,High,2,test
+1311,tareef hamare area ki road theek karne ka shukriya ab bohat behtar hai shabash team,Roads / Infrastructure,0,Positive,2,Low,0,val
+1312,please tell me what is the phone number of the citizen helpline,General,7,Neutral,1,Low,0,train
+1313,naye bijli meter ke liye kaise apply karun contact,Electricity,2,Neutral,1,Low,0,train
+1314,meri darkhwast kai mahine se zer e iltawa hai koi jawab nahi,General,7,Negative,0,Medium,1,val
+1315,the tube well has stopped working near the main market,Water Supply,1,Negative,0,High,2,train
+1316,poori raat loudspeaker ka shor hota hai kai hafton se barae meherbani karwai karein,General,7,Negative,0,High,2,train
+1317,there is no zebra crossing near the school yeh sab ke liye bara masla hai,Traffic,6,Negative,0,Medium,1,train
+1318,dengue ke case barh rahe hain aur spray nahi hui for three days,Health,4,Negative,0,Urgent,3,test
+1319,dear officer the doctor is absent during duty hours for two days,Health,4,Negative,0,Medium,1,test
+1320,great work the hospital staff was very helpful and polite contact,Health,4,Positive,2,Low,0,train
+1321,the basic health unit is closed most days in block c for two days,Health,4,Negative,0,High,2,test
+1322,a heap of waste has been lying near the market for days for three days it is a serious problem for everyone,Sanitation,3,Negative,0,High,2,train
+1324,there is no drinking water for students at school please fix it urgently,Education,5,Negative,0,Urgent,3,train
+1325,road khod kar chor di gayi aur dobara nahi banayi for a week kindly take action,Roads / Infrastructure,0,Negative,0,High,2,test
+1326,shikayat poori raat loudspeaker ka shor hota hai rozana yeh emergency hai fori karwai karein,General,7,Negative,0,High,2,train
+1329,tareef bijli ke amlay ne hamari shikayat par jaldi amal kiya aisay hi karte rahein,Electricity,2,Positive,2,Low,0,val
+1330,the road was dug up for work and never repaired in our colony,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1331,the road was dug up for work and never repaired for three days,Roads / Infrastructure,0,Negative,0,High,2,val
+1332,garbage on the road is blocking traffic,Sanitation,3,Negative,0,Medium,1,train
+1334,the water bill is wrong although we get no supply every day this is an emergency act immediately,Water Supply,1,Negative,0,Medium,1,val
+1335,school ki imarat ki deewarein toot chuki hain aur ghair mehfooz hain ek hafte se,Education,5,Negative,0,Urgent,3,train
+1336,pani aloodah hai aur bachay beemar ho rahe hain kindly take action,Water Supply,1,Negative,0,Urgent,3,train
+1338,masroof chowrahe par traffic warden maujood nahi hota every day it is a serious problem for everyone,Traffic,6,Negative,0,Medium,1,train
+1340,great work the sewer was cleaned very fast appreciated,Sanitation,3,Positive,2,Low,0,train
+1342,hamare muhalle ke qareeb pul mein dararein par gayi hain it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,High,2,test
+1343,traffic wardens are doing a great job at the chowk,Traffic,6,Positive,2,Low,0,val
+1344,assalam o alaikum tube well kharab ho gaya hai yeh sab ke liye bara masla hai,Water Supply,1,Negative,0,High,2,train
+1345,which office handles sewer line complaints call me,Sanitation,3,Neutral,1,Medium,1,val
+1346,janab is chowrahe par aye din hadsay hote hain,Traffic,6,Negative,0,Urgent,3,train
+1348,wazifa kai mahine se nahi mila do din se,Education,5,Negative,0,Medium,1,test
+1349,shikayat pani nahi aata lekin bill phir bhi aa gaya hai kai mahine se barae meherbani karwai karein,Water Supply,1,Negative,0,Medium,1,test
+1351,illegal construction is going on in the residential area,General,7,Negative,0,Medium,1,test
+1352,i want to report that students have not received their free textbooks for months,Education,5,Negative,0,High,2,test
+1353,janab hamare area ki road bohat kharab hai meherbani karke dekhein,Roads / Infrastructure,0,Negative,0,Medium,1,train
+1356,sir the official website has no clear information on services near the main market every day please look into it,General,7,Negative,0,Low,0,train
+1357,assalam o alaikum bijli ki taarein gali mein latak rahi hain ek hafte se yeh emergency hai fori karwai karein,Electricity,2,Negative,0,Urgent,3,val
+1358,gutter ki shikayat kaun sa daftar sunta hai,Sanitation,3,Neutral,1,Low,0,train
+1361,assalam o alaikum tameeri kaam ke dauran kaun sa rasta khula hai see,Traffic,6,Neutral,1,Medium,1,train
+1362,just wanted to say the new street construction was completed on time well done team,Roads / Infrastructure,0,Positive,2,Low,0,train
+1363,achi khabar hamare area ki road theek karne ka shukriya ab bohat behtar hai aisay hi karte rahein,Roads / Infrastructure,0,Positive,2,Low,0,test
+1365,the government office staff behaved badly with us in our colony yeh sab ke liye bara masla hai,General,7,Negative,0,Medium,1,train
+1366,the doctor is absent during duty hours in our locality,Health,4,Negative,0,Medium,1,train
+1367,hello the school was closed for weeks without any reason in our neighbourhood since yesterday it is a serious problem for everyone,Education,5,Negative,0,High,2,train
+1368,talba ko abhi tak muft kitabein nahi mili ek hafte se baraye karam jaldi theek karwayein,Education,5,Negative,0,High,2,train
+1369,i want to report that the main water pipeline is leaking and wasting water near the main market,Water Supply,1,Negative,0,Medium,1,test
+1370,zyada sawariyan bithanay wale rickshaw aur bus khatarnak hain please fix it urgently,Traffic,6,Negative,0,Urgent,3,val
+1371,hello sewage water is mixing with the drinking water line it is a serious problem for everyone,Sanitation,3,Negative,0,Urgent,3,train
+1372,i want to report that the tap water is dirty and smells bad near the main market,Water Supply,1,Negative,0,High,2,val
+1373,respected sir there are no medicines available at the dispensary in our locality for three days,Health,4,Negative,0,Urgent,3,train
+1374,bazar ke paas kachray ka dher kai dinon se para hai do din se yeh sab ke liye bara masla hai,Sanitation,3,Negative,0,Medium,1,train
+1375,sir is the vaccination camp open this sunday,Health,4,Neutral,1,Low,0,train
+1377,school mein science lab aur computers nahi hain for a week pic attached,Education,5,Negative,0,Medium,1,train
+1378,dear officer there is heavy traffic jam every evening for three days,Traffic,6,Negative,0,High,2,test
+1379,good news the new street construction was completed on time well done team,Roads / Infrastructure,0,Positive,2,Low,0,train
+1380,appreciation doctors treated my mother well and the hospital was clean keep it up,Health,4,Positive,2,Low,0,val
+1382,the supplied water is contaminated and children are falling sick in our area barae meherbani karwai karein,Water Supply,1,Negative,0,Urgent,3,test
+1383,how do i apply for a new electricity meter my number is,Electricity,2,Neutral,1,Medium,1,test
+1384,nayi pipeline ke baad pani ki supply bohat behtar ho gayi hai shabash team,Water Supply,1,Positive,2,Low,0,train
+1385,shikayat humein tanker ka pani kharidna par raha hai teen din se yeh emergency hai fori karwai karein,Water Supply,1,Negative,0,High,2,train
+1387,i want to report that overloaded rickshaws and buses are a danger to the public in our locality for a week please look into it,Traffic,6,Negative,0,Urgent,3,test
+1389,the water filtration plant in our locality is not working contact,Water Supply,1,Negative,0,Medium,1,train
+1390,power is cut for hours without any notice in our locality meherbani karke dekhein,Electricity,2,Negative,0,Medium,1,val
+1391,garbage is not collected from our street in our locality meherbani karke dekhein,Sanitation,3,Negative,0,Medium,1,test
+1392,respected sir there is no zebra crossing near the school every day kindly take action,Traffic,6,Negative,0,Medium,1,train
+1393,hamare area ki road theek karne ka shukriya ab bohat behtar hai,Roads / Infrastructure,0,Positive,2,Low,0,train
+1394,the traffic signal is not working at the main chowk since yesterday kindly take action,Traffic,6,Negative,0,Medium,1,train
+1395,overloaded rickshaws and buses are a danger to the public near the main market barae meherbani karwai karein,Traffic,6,Negative,0,High,2,test
+1396,respected sir there is no electricity since morning in our locality for a week this is an emergency act immediately,Electricity,2,Negative,0,Urgent,3,train
+1397,complaint the school roof leaks during rain in block c for a week please fix it urgently,Education,5,Negative,0,Urgent,3,train
+1398,pani nahi aata lekin bill phir bhi aa gaya hai rozana,Water Supply,1,Negative,0,Low,0,train
+1401,the basic health unit is closed most days in our locality,Health,4,Negative,0,High,2,train
+1402,school mein science lab aur computers nahi hain,Education,5,Negative,0,Low,0,test
+1403,sir shikayat daftar koi call receive nahi karta kai hafton se,General,7,Negative,0,High,2,test
+1404,sir sarkari daftar ke ahlkaar ne hamare sath bura sulook kiya,General,7,Negative,0,Medium,1,train
+1405,park ki acchi marammat hui team ka shukriya,General,7,Positive,2,Low,0,train
+1406,the doctor is absent during duty hours in our neighbourhood please look into it,Health,4,Negative,0,Medium,1,train
+1407,complaint there are frequent accidents at this intersection in our locality for months kindly take action,Traffic,6,Negative,0,Urgent,3,train
+1408,dear officer the school roof leaks during rain in our neighbourhood every day this is an emergency act immediately,Education,5,Negative,0,Urgent,3,train
+1409,i want to report that overloaded rickshaws and buses are a danger to the public since yesterday,Traffic,6,Negative,0,High,2,train
+1410,the traffic signal is not working at the main chowk in our neighbourhood for two days it is a serious problem for everyone,Traffic,6,Negative,0,Medium,1,train
+1411,shikayat rehaishi ilaqay mein ghair qanooni tameer ho rahi hai teen din se barae meherbani karwai karein,General,7,Negative,0,High,2,train
+1412,meherbani karke note karein hospital mein intezar ka waqt bohat zyada hai ek hafte se meherbani karke dekhein,Health,4,Negative,0,High,2,val
+1413,shukriya shikayat helpline ne jaldi jawab diya aur masla hal hua hum bohat khush hain,General,7,Positive,2,Low,0,train
+1414,shops have encroached on the footpath in our locality every day,General,7,Negative,0,Low,0,train
+1415,the street lights are not working at night yeh emergency hai fori karwai karein,Electricity,2,Negative,0,High,2,train
+1416,water supply has improved a lot after the new pipeline well done team,Water Supply,1,Positive,2,Low,0,train
+1418,appreciation the sewer was cleaned very fast appreciated hope it continues,Sanitation,3,Positive,2,Low,0,train
+1419,sarak par khula manhole bachon ke liye khatarnak hai every day,Roads / Infrastructure,0,Negative,0,Urgent,3,val
+1420,assalam o alaikum hospital ke wards ganday aur ghair saaf hain kai hafton se contact,Health,4,Negative,0,High,2,train
+1421,hello sweepers do not come to our street in our colony for a week kindly take action,Sanitation,3,Negative,0,Medium,1,test
+1422,shikayat khara ganda pani machar paida kar raha hai,Sanitation,3,Negative,0,High,2,test
+1423,i want to report that the school was closed for weeks without any reason in our area for many weeks,Education,5,Negative,0,Urgent,3,train
+1424,hospital ka staff mareezon ke sath badtameezi karta hai every day this is an emergency act immediately,Health,4,Negative,0,High,2,train
+1425,hospital ke wards ganday aur ghair saaf hain barae meherbani karwai karein call me,Health,4,Negative,0,Medium,1,train
+1426,har shaam bohat zyada traffic jam hota hai teen din se,Traffic,6,Negative,0,High,2,train
+1427,no traffic warden is present at the busy crossing in our area for three days please look into it,Traffic,6,Negative,0,High,2,test
+1428,emergency ward mein oxygen maujood nahi hai barae meherbani karwai karein,Health,4,Negative,0,Urgent,3,train
+1429,pani din mein sirf das minute aata hai ek hafte se yeh emergency hai fori karwai karein,Water Supply,1,Negative,0,High,2,train
+1431,sir the scholarship payment has been delayed for months for three days kindly take action,Education,5,Negative,0,High,2,train
+1432,the doctor is absent during duty hours since yesterday,Health,4,Negative,0,Medium,1,train
+1433,main sarak par bade bade gaddhe hain for three days it is a serious problem for everyone,Roads / Infrastructure,0,Negative,0,High,2,train
+1434,complaint please add a mobile app to track complaint status near the main market for three days please look into it,General,7,Negative,0,Medium,1,train
+1435,hello the drain is blocked and smells terrible in our neighbourhood for a week please look into it,Sanitation,3,Negative,0,High,2,val
+1436,barish mein school ki chat tapakti hai do din se meherbani karke dekhein,Education,5,Negative,0,High,2,test
+1437,hello power is cut for hours without any notice in our neighbourhood for months,Electricity,2,Negative,0,High,2,train
+1439,the new signal has reduced the traffic jam shabash team shukriya,Traffic,6,Positive,2,Low,0,train
+1441,janab classrooms mein bohat bheed hai aur benches nahi hain kal se,Education,5,Negative,0,Medium,1,train
+1442,quick question where can i check my traffic challan online,Traffic,6,Neutral,1,Medium,1,train
+1443,the park has been renovated nicely thanks to the team hope it continues,General,7,Positive,2,Low,0,train
+1444,the tap water is dirty and smells bad for months,Water Supply,1,Negative,0,Urgent,3,train
+1445,the sewer line is overflowing onto the street in block c,Sanitation,3,Negative,0,High,2,train
+1450,gutter ka pani sarak par beh raha hai kindly take action,Sanitation,3,Negative,0,High,2,train
+1451,the main water pipeline is leaking and wasting water,Water Supply,1,Negative,0,Medium,1,train
+1453,critical mareez ke liye ambulance bohat der se pohanchi for many weeks it is a serious problem for everyone,Health,4,Negative,0,Urgent,3,train
+1455,complaint loudspeakers create noise all night near the main market for many weeks it is a serious problem for everyone,General,7,Negative,0,High,2,train
+1456,dispensary mein dawaiyan maujood nahi hain kal se,Health,4,Negative,0,High,2,train
+1457,the sewer was cleaned very fast appreciated pic attached,Sanitation,3,Positive,2,Low,0,train
+1460,janab gutter ka pani sarak par beh raha hai do din se baraye karam jaldi theek karwayein,Sanitation,3,Negative,0,Urgent,3,train
+1461,sir there is no water supply in our area,Water Supply,1,Negative,0,High,2,train
+1462,assalam o alaikum official website par khidmaat ki wazeh maloomat nahi hai kal se baraye karam jaldi theek karwayein,General,7,Negative,0,Medium,1,train
+1463,dispensary mein dawaiyan maujood nahi hain for months this is an emergency act immediately,Health,4,Negative,0,Urgent,3,train
+1464,lab ki machinein kharab hain isliye tests mein der hoti hai rozana yeh sab ke liye bara masla hai,Health,4,Negative,0,Medium,1,train
+1466,please tell me how can i apply for the school scholarship,Education,5,Neutral,1,Low,0,train
+1468,the speed breaker is too high and damages vehicles baraye karam jaldi theek karwayein,Roads / Infrastructure,0,Negative,0,Medium,1,val
+1469,the tap water is dirty and smells bad in our area baraye karam jaldi theek karwayein,Water Supply,1,Negative,0,Urgent,3,train
+1471,great work doctors treated my mother well and the hospital was clean keep it up,Health,4,Positive,2,Low,0,test
+1475,meherbani karke note karein hospital ka staff mareezon ke sath badtameezi karta hai call me,Health,4,Negative,0,Medium,1,train
+1476,no traffic warden is present at the busy crossing in our colony,Traffic,6,Negative,0,Medium,1,test
+1477,the water filtration plant in our locality is not working please look into it,Water Supply,1,Negative,0,Medium,1,train
+1478,complaint the road in our area is badly broken for a week,Roads / Infrastructure,0,Negative,0,High,2,train
+1479,respected sir the transformer blew up and was never replaced in our neighbourhood for a week please fix it urgently contact,Electricity,2,Negative,0,Urgent,3,train
+1481,sweepers do not come to our street in our neighbourhood,Sanitation,3,Negative,0,Low,0,val
+1483,shukriya pani ki team ne leakage jaldi theek ki shabash,Water Supply,1,Positive,2,Low,0,test
+1484,shikayat ka status dekhne ke liye mobile app banayein every day please fix it urgently,General,7,Negative,0,Medium,1,train
+1485,shukriya hospital ka staff bohat madadgar aur shaista tha umeed hai yeh jari rahega,Health,4,Positive,2,Low,0,val
+1489,the new transformer solved our voltage problem shukriya contact,Electricity,2,Positive,2,Low,0,train
+1490,respected sir the street lights are not working at night in our neighbourhood since yesterday kindly take action,Electricity,2,Negative,0,Medium,1,train
+1492,the park has been renovated nicely aisay hi karte rahein shukriya,General,7,Positive,2,Low,0,train
+1493,shukriya nayi sarak ki tameer waqt par mukammal hui aisay hi karte rahein,Roads / Infrastructure,0,Positive,2,Low,0,val
+1496,appreciation the new street construction was completed on time,Roads / Infrastructure,0,Positive,2,Low,0,train
+1497,just wanted to say garbage is now collected daily good improvement,Sanitation,3,Positive,2,Low,0,train
+1499,sparks come out of the electric pole every time it rains in our area my number is,Electricity,2,Negative,0,Urgent,3,val
+1500,power is cut for hours without any notice baraye karam jaldi theek karwayein,Electricity,2,Negative,0,High,2,val
+1501,zyada sawariyan bithanay wale rickshaw aur bus khatarnak hain kai hafton se,Traffic,6,Negative,0,Urgent,3,test
+1502,subah pani ka pressure bohat kam hota hai yeh emergency hai fori karwai karein,Water Supply,1,Negative,0,High,2,train
+1503,complaint stray dogs are attacking people in our area for many weeks please look into it,General,7,Negative,0,Urgent,3,val
+1508,respected sir the sewer line is overflowing onto the street in our colony for many weeks it is a serious problem for everyone,Sanitation,3,Negative,0,Urgent,3,train
+1509,assalam o alaikum motorcycle sawar tez raftari se chalate hain jaan ka khatra hai rozana,Traffic,6,Negative,0,High,2,train
+1510,subah pani ka pressure bohat kam hota hai for months,Water Supply,1,Negative,0,High,2,train
+1512,please add a mobile app to track complaint status in our area since yesterday please fix it urgently,General,7,Negative,0,Medium,1,val

@@ -1,0 +1,49 @@
+===== CATEGORY (test set, n=188) =====
+Accuracy: 0.9947
+Macro precision: 0.9948 | Macro recall: 0.9946 | Macro F1: 0.9946
+
+                        precision    recall  f1-score   support
+
+             Education       1.00      1.00      1.00        24
+           Electricity       0.96      1.00      0.98        23
+               General       1.00      0.96      0.98        23
+                Health       1.00      1.00      1.00        24
+Roads / Infrastructure       1.00      1.00      1.00        24
+            Sanitation       1.00      1.00      1.00        24
+               Traffic       1.00      1.00      1.00        23
+          Water Supply       1.00      1.00      1.00        23
+
+              accuracy                           0.99       188
+             macro avg       0.99      0.99      0.99       188
+          weighted avg       0.99      0.99      0.99       188
+
+===== SENTIMENT (test set, n=188) =====
+Accuracy: 1.0000
+Macro precision: 1.0000 | Macro recall: 1.0000 | Macro F1: 1.0000
+
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00       131
+     Neutral       1.00      1.00      1.00        23
+    Positive       1.00      1.00      1.00        34
+
+    accuracy                           1.00       188
+   macro avg       1.00      1.00      1.00       188
+weighted avg       1.00      1.00      1.00       188
+
+===== PRIORITY (test set, n=188) =====
+Accuracy: 0.7872
+Macro precision: 0.7887 | Macro recall: 0.7808 | Macro F1: 0.7843
+
+              precision    recall  f1-score   support
+
+        High       0.69      0.73      0.71        49
+         Low       0.92      0.90      0.91        61
+      Medium       0.69      0.69      0.69        49
+      Urgent       0.85      0.79      0.82        29
+
+    accuracy                           0.79       188
+   macro avg       0.79      0.78      0.78       188
+weighted avg       0.79      0.79      0.79       188
+
+Selected models: category=Linear SVM (calibrated); sentiment=Logistic Regression; priority=Logistic Regression

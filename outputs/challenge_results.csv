@@ -1,0 +1,50 @@
+text,category,sentiment,priority,pred_category,pred_sentiment,pred_priority,confidence,keywords,category_correct
+"Our lane turns into a pond whenever it rains, cars get stuck and the tarmac is gone.",Roads / Infrastructure,Negative,Medium,Electricity,Negative,Medium,0.366,"rains, into, lane, turns",False
+The culvert collapsed last night and a rickshaw nearly fell in.,Roads / Infrastructure,Negative,Urgent,General,Negative,High,0.283,"collapsed, rickshaw, night, culvert",False
+gali ki tarkol ukhar gayi hai chalna mushkil hai,Roads / Infrastructure,Negative,Medium,Roads / Infrastructure,Negative,Low,0.718,"gali, tarkol, ukhar, chalna",True
+"Bridge railing is missing near the canal, kids walk there daily.",Roads / Infrastructure,Negative,Urgent,Sanitation,Negative,High,0.51,"bridge railing, daily, missing, canal",False
+The taps have been dry since Monday and the tanker mafia charges triple.,Water Supply,Negative,High,General,Negative,Low,0.524,"tanker mafia, taps, dry, charges",False
+pani peela aa raha hai aur bachon ko pait dard hai,Water Supply,Negative,Urgent,Sanitation,Negative,High,0.733,"bachon, pani peela, pait, dard",False
+Is the new water meter mandatory for all houses?,Water Supply,Neutral,Low,Water Supply,Negative,Low,0.766,"water meter, meter mandatory, all, houses",True
+"Bohat shukriya, ab nalkay mein saaf pani aa raha hai.",Water Supply,Positive,Low,Sanitation,Positive,Low,0.831,"saaf pani, nalkay",False
+Lights went off at 6am and still no sign of the lineman.,Electricity,Negative,High,Electricity,Negative,Low,0.431,"off, lights, went, 6am",True
+bijli ke taar zameen par gir gaye hain bachay khel rahe hain,Electricity,Negative,Urgent,Electricity,Negative,Urgent,0.92,"bachay, bijli, taar, zameen",True
+Why is the bill showing 900 units when we were away all month?,Electricity,Negative,Low,General,Negative,Low,0.526,"bill showing, all, when, why",False
+"Thanks for fixing the pole so quickly, appreciate it.",Electricity,Positive,Low,Electricity,Positive,Low,0.374,"pole, quickly, fixing, appreciate",True
+Rubbish piles up outside the mosque and the stench is unbearable.,Sanitation,Negative,High,Health,Negative,High,0.433,"rubbish, piles, mosque, stench",False
+naali ubal rahi hai aur ghar mein pani aa gaya,Sanitation,Negative,Urgent,Sanitation,Negative,Medium,0.709,"naali ubal, pani, ghar",True
+When will the street be swept again?,Sanitation,Neutral,Low,Sanitation,Neutral,Low,0.458,"when, street, swept, again",True
+Doctor ne mareez ko dekhe baghair wapis bhej diya,Health,Negative,High,Health,Negative,Medium,0.855,"mareez, doctor, diya, dekhe",True
+My father waited five hours in emergency and nobody checked him.,Health,Negative,Urgent,General,Negative,High,0.413,"nobody, emergency, father, waited",False
+The nurses were kind and the ward was spotless.,Health,Positive,Low,Health,Negative,Low,0.848,"ward, nurses, kind, spotless",True
+"No paracetamol or antibiotics in the BHU, they tell us to buy outside.",Health,Negative,High,General,Negative,Medium,0.424,"buy, tell, paracetamol, antibiotics",False
+Principal takes money for admission even though it is supposed to be free.,Education,Negative,Medium,Education,Negative,High,0.628,"admission, free, principal, takes",True
+bachon ke liye school mein bench hi nahi hain wo zameen par baithte hain,Education,Negative,Medium,Education,Negative,Urgent,0.934,"liye school, bachon, bench, zameen",True
+Grade 5 teacher hasn't taught for two months.,Education,Negative,Medium,Education,Negative,Medium,0.369,"grade, teacher, hasn't, taught",True
+"Great initiative, the school now has a computer lab.",Education,Positive,Low,Education,Positive,Low,0.941,"great, lab, school, initiative",True
+"Rash driving outside the college gate, someone will get killed.",Traffic,Negative,Urgent,Sanitation,Negative,Low,0.406,"rash, driving, college, gate",False
+chowk ki batti kharab hone se roz jam lagta hai,Traffic,Negative,Medium,Traffic,Negative,Medium,0.825,"roz jam, jam lagta, chowk, hone",True
+Motorbikes use the footpath during rush hour.,Traffic,Negative,Medium,General,Negative,Medium,0.495,"footpath during, motorbikes, use, rush",False
+"The new one-way plan has helped a lot, good thinking.",Traffic,Positive,Low,Water Supply,Positive,Low,0.34,"lot, good, way, plan",False
+"Nobody picks up the helpline, I tried ten times.",General,Negative,Medium,General,Negative,Low,0.819,"nobody, helpline, picks, tried",True
+Shop owners are playing loud music till 2am.,General,Negative,Low,General,Negative,Medium,0.331,"shop, owners, playing, loud",True
+Kutton ne kal ek bache ko kaat liya,General,Negative,Urgent,General,Negative,Medium,0.822,"liya, kal, kutton, bache",True
+Where do I submit a request for a community hall booking?,General,Neutral,Low,Sanitation,Negative,Medium,0.259,"where, submit, request, community",False
+The road is damaged and sewage is overflowing on it.,Sanitation,Negative,High,Sanitation,Negative,Medium,0.552,"sewage, overflowing, damaged, road",True
+"Hospital road is broken, ambulances can't pass.",Roads / Infrastructure,Negative,Urgent,Health,Negative,Medium,0.512,"hospital road, broken, ambulances, can't",False
+School has no electricity so fans don't work in the heat.,Education,Negative,Medium,Education,Negative,Low,0.621,"electricity, work, school, fans",True
+"No power at the hospital, patients are in the dark.",Health,Negative,Urgent,Health,Negative,High,0.956,"hospital patients, power, dark",True
+signal band hai aur bijli bhi nahi,Traffic,Negative,Medium,Electricity,Negative,Medium,0.832,"signal band, bijli",False
+Water pump needs electricity but load shedding is 12 hours.,Electricity,Negative,High,Electricity,Negative,Medium,0.949,"needs electricity, load shedding, water pump",True
+too late,General,Negative,Low,Health,Negative,Medium,0.54,late,False
+Help,General,Negative,Medium,General,Negative,Low,0.793,help,True
+nothing works here,General,Negative,Medium,Electricity,Negative,Medium,0.283,"nothing, works",False
+"Park ki lights theek ho gayi, shukriya.",General,Positive,Low,General,Positive,Low,0.49,"park, lights, theek",True
+"Potholes everywhere, my car suspension is finished.",Roads / Infrastructure,Negative,Medium,Roads / Infrastructure,Negative,Low,0.583,"potholes everywhere, car, suspension, finished",True
+"Garbage truck came today for the first time, thank you.",Sanitation,Positive,Low,Sanitation,Positive,Low,0.872,"garbage truck, time, came, today",True
+"dispensary mein doctor mojood hai aur dawai bhi mil gayi, achi service.",Health,Positive,Low,Health,Negative,High,0.922,"doctor mojood, dawai, mil, dispensary",True
+Jam since morning because of a broken truck on the bridge.,Traffic,Negative,Medium,Roads / Infrastructure,Negative,Medium,0.712,"because, bridge, truck, jam",False
+hamari gali mein pani nahi aa raha 4 din se bachon ko school bhi nahi bhej saktay,Water Supply,Negative,High,Education,Negative,High,0.691,"bachon, pani, gali, school",False
+"Transformer humming loudly and smoking, please send someone now!",Electricity,Negative,Urgent,Electricity,Negative,Urgent,0.795,"transformer humming, loudly, smoking, send",True
+Teachers are good but the classrooms are too hot.,Education,Negative,Low,Education,Negative,Medium,0.936,"teachers, classrooms, good, hot",True
+Is there any helpline for flood relief?,General,Neutral,Medium,General,Negative,High,0.872,"helpline, any, flood, relief",True

@@ -1,0 +1,22 @@
+Challenge set size: 49
+
+=== CATEGORY === accuracy 0.592 | macro-F1 0.551
+                        precision    recall  f1-score   support
+
+             Education       0.86      1.00      0.92         6
+           Electricity       0.62      0.83      0.71         6
+               General       0.50      0.67      0.57         9
+                Health       0.57      0.67      0.62         6
+Roads / Infrastructure       0.67      0.33      0.44         6
+            Sanitation       0.44      0.80      0.57         5
+               Traffic       1.00      0.17      0.29         6
+          Water Supply       0.50      0.20      0.29         5
+
+              accuracy                           0.59        49
+             macro avg       0.65      0.58      0.55        49
+          weighted avg       0.64      0.59      0.56        49
+
+
+=== SENTIMENT === accuracy 0.898 | macro-F1 0.731
+
+=== PRIORITY === accuracy 0.429 | macro-F1 0.385

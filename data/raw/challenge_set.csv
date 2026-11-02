@@ -1,0 +1,50 @@
+text,category,sentiment,priority
+"Our lane turns into a pond whenever it rains, cars get stuck and the tarmac is gone.",Roads / Infrastructure,Negative,Medium
+"The culvert collapsed last night and a rickshaw nearly fell in.",Roads / Infrastructure,Negative,Urgent
+"gali ki tarkol ukhar gayi hai chalna mushkil hai",Roads / Infrastructure,Negative,Medium
+"Bridge railing is missing near the canal, kids walk there daily.",Roads / Infrastructure,Negative,Urgent
+"The taps have been dry since Monday and the tanker mafia charges triple.",Water Supply,Negative,High
+"pani peela aa raha hai aur bachon ko pait dard hai",Water Supply,Negative,Urgent
+"Is the new water meter mandatory for all houses?",Water Supply,Neutral,Low
+"Bohat shukriya, ab nalkay mein saaf pani aa raha hai.",Water Supply,Positive,Low
+"Lights went off at 6am and still no sign of the lineman.",Electricity,Negative,High
+"bijli ke taar zameen par gir gaye hain bachay khel rahe hain",Electricity,Negative,Urgent
+"Why is the bill showing 900 units when we were away all month?",Electricity,Negative,Low
+"Thanks for fixing the pole so quickly, appreciate it.",Electricity,Positive,Low
+"Rubbish piles up outside the mosque and the stench is unbearable.",Sanitation,Negative,High
+"naali ubal rahi hai aur ghar mein pani aa gaya",Sanitation,Negative,Urgent
+"When will the street be swept again?",Sanitation,Neutral,Low
+"Doctor ne mareez ko dekhe baghair wapis bhej diya",Health,Negative,High
+"My father waited five hours in emergency and nobody checked him.",Health,Negative,Urgent
+"The nurses were kind and the ward was spotless.",Health,Positive,Low
+"No paracetamol or antibiotics in the BHU, they tell us to buy outside.",Health,Negative,High
+"Principal takes money for admission even though it is supposed to be free.",Education,Negative,Medium
+"bachon ke liye school mein bench hi nahi hain wo zameen par baithte hain",Education,Negative,Medium
+"Grade 5 teacher hasn't taught for two months.",Education,Negative,Medium
+"Great initiative, the school now has a computer lab.",Education,Positive,Low
+"Rash driving outside the college gate, someone will get killed.",Traffic,Negative,Urgent
+"chowk ki batti kharab hone se roz jam lagta hai",Traffic,Negative,Medium
+"Motorbikes use the footpath during rush hour.",Traffic,Negative,Medium
+"The new one-way plan has helped a lot, good thinking.",Traffic,Positive,Low
+"Nobody picks up the helpline, I tried ten times.",General,Negative,Medium
+"Shop owners are playing loud music till 2am.",General,Negative,Low
+"Kutton ne kal ek bache ko kaat liya",General,Negative,Urgent
+"Where do I submit a request for a community hall booking?",General,Neutral,Low
+"The road is damaged and sewage is overflowing on it.",Sanitation,Negative,High
+"Hospital road is broken, ambulances can't pass.",Roads / Infrastructure,Negative,Urgent
+"School has no electricity so fans don't work in the heat.",Education,Negative,Medium
+"No power at the hospital, patients are in the dark.",Health,Negative,Urgent
+"signal band hai aur bijli bhi nahi",Traffic,Negative,Medium
+"Water pump needs electricity but load shedding is 12 hours.",Electricity,Negative,High
+"too late",General,Negative,Low
+"Help",General,Negative,Medium
+"nothing works here",General,Negative,Medium
+"Park ki lights theek ho gayi, shukriya.",General,Positive,Low
+"Potholes everywhere, my car suspension is finished.",Roads / Infrastructure,Negative,Medium
+"Garbage truck came today for the first time, thank you.",Sanitation,Positive,Low
+"dispensary mein doctor mojood hai aur dawai bhi mil gayi, achi service.",Health,Positive,Low
+"Jam since morning because of a broken truck on the bridge.",Traffic,Negative,Medium
+"hamari gali mein pani nahi aa raha 4 din se bachon ko school bhi nahi bhej saktay",Water Supply,Negative,High
+"Transformer humming loudly and smoking, please send someone now!",Electricity,Negative,Urgent
+"Teachers are good but the classrooms are too hot.",Education,Negative,Low
+"Is there any helpline for flood relief?",General,Neutral,Medium
